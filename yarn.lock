@@ -1496,15 +1496,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@contentlayer2/cli@npm:0.5.5":
-  version: 0.5.5
-  resolution: "@contentlayer2/cli@npm:0.5.5"
+"@contentlayer2/cli@npm:0.5.8":
+  version: 0.5.8
+  resolution: "@contentlayer2/cli@npm:0.5.8"
   dependencies:
-    "@contentlayer2/core": 0.5.5
-    "@contentlayer2/utils": 0.5.5
+    "@contentlayer2/core": 0.5.8
+    "@contentlayer2/utils": 0.5.8
     clipanion: ^3.2.1
     typanion: ^3.12.1
-  checksum: 7330c28fd7825934b8763904006c59746a7231fdb6edc018070bedb3a0f578df2d6a83eb68d2124c001d7d7889ebce1cffb13dc123d3189c7437acc46a8f50a7
+  checksum: 600313d089f97e78c20809a3863f81ffc6f28e4a774de793ea6e1b24fd78fa63abd2008748610ae5a4d05b7699d2dfd6b1ed52b205eea13b73c4ffb72763a43a
   languageName: node
   linkType: hard
 
@@ -1517,12 +1517,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@contentlayer2/client@npm:0.5.5":
-  version: 0.5.5
-  resolution: "@contentlayer2/client@npm:0.5.5"
+"@contentlayer2/client@npm:0.5.8":
+  version: 0.5.8
+  resolution: "@contentlayer2/client@npm:0.5.8"
   dependencies:
-    "@contentlayer2/core": 0.5.5
-  checksum: cba6c9c65b4f50386f08579f8ba02b348e349417f2d65cc747663d7d3de88a4ec85cd51eac5a3c3d1b0b2e951b77d405cef19fbd658a3fc5ec9892c7077fb519
+    "@contentlayer2/core": 0.5.8
+  checksum: bd950de2e7b42a3dda95e8093117dbe93c2a44f81cfafeb8f5e01d6c31a926f831dc1afd2950d9df74d205b9040f7d83d1576d8ca60d3ae750e7ed68c5e7aa7e
   languageName: node
   linkType: hard
 
@@ -1555,11 +1555,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@contentlayer2/core@npm:0.5.5":
-  version: 0.5.5
-  resolution: "@contentlayer2/core@npm:0.5.5"
+"@contentlayer2/core@npm:0.5.8":
+  version: 0.5.8
+  resolution: "@contentlayer2/core@npm:0.5.8"
   dependencies:
-    "@contentlayer2/utils": 0.5.5
+    "@contentlayer2/utils": 0.5.8
     camel-case: ^4.1.2
     comment-json: ^4.2.3
     esbuild: ">=0.17"
@@ -1580,7 +1580,7 @@ __metadata:
       optional: true
     markdown-wasm:
       optional: true
-  checksum: 9cc91034506c5ab57e01f0139e76a4341e6dc21df7ab5b070660c06a9a6f89a77392690e8a02c3735efb8394ff734e693d0941392f7569d97de8ee549c6aa81d
+  checksum: 70c301fe5160b0cb3ad41ba567c7273be3d7a37d881ba7542cb6d51d5c3aed3f2f6f136bc91b4241e4467a3d8656d1278d64fcfc7fd35e8e5bbfb46e39100ec0
   languageName: node
   linkType: hard
 
@@ -1603,12 +1603,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@contentlayer2/source-files@npm:0.5.5":
-  version: 0.5.5
-  resolution: "@contentlayer2/source-files@npm:0.5.5"
+"@contentlayer2/source-files@npm:0.5.8":
+  version: 0.5.8
+  resolution: "@contentlayer2/source-files@npm:0.5.8"
   dependencies:
-    "@contentlayer2/core": 0.5.5
-    "@contentlayer2/utils": 0.5.5
+    "@contentlayer2/core": 0.5.8
+    "@contentlayer2/utils": 0.5.8
     chokidar: ^3.5.3
     fast-glob: ^3.2.12
     gray-matter: ^4.0.3
@@ -1618,7 +1618,7 @@ __metadata:
     unified: ^11.0.4
     yaml: ^2.3.1
     zod: ^3.22.4
-  checksum: f967d67598c2c1042b7624eecea11c97535a69b3cc0bc4f0122b6cac994061c22a229baaa3b715bd07770dba363ec7555f3b26a53e27542189a7d9b862507300
+  checksum: 8a7e13e811f1f60c4b032f431db0473d9be982d65d72998423046c592164b5078198c5ba5aa47cf359a800bf68a64c615ab2a99030d97cc5d6ebb8d8db89505b
   languageName: node
   linkType: hard
 
@@ -1633,14 +1633,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@contentlayer2/source-remote-files@npm:0.5.5":
-  version: 0.5.5
-  resolution: "@contentlayer2/source-remote-files@npm:0.5.5"
+"@contentlayer2/source-remote-files@npm:0.5.8":
+  version: 0.5.8
+  resolution: "@contentlayer2/source-remote-files@npm:0.5.8"
   dependencies:
-    "@contentlayer2/core": 0.5.5
-    "@contentlayer2/source-files": 0.5.5
-    "@contentlayer2/utils": 0.5.5
-  checksum: ef5851098bc6333db219975a4aac2c94e66642c8d228c1d83520a23d7e0f2891ef9205e428b68112f45d41a3a1ca1bc01bbfca402704bbed4cd5e96aca6401ca
+    "@contentlayer2/core": 0.5.8
+    "@contentlayer2/source-files": 0.5.8
+    "@contentlayer2/utils": 0.5.8
+  checksum: f6ad5f12b8d0467c7c8cfb86b9ca860640d5f237edbcd965258aa3d90e933b96a0cd29bfad1ca9ad589a5ab73f4306306a70883c4d8c6b0dc489623de0f9acb9
   languageName: node
   linkType: hard
 
@@ -1677,9 +1677,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@contentlayer2/utils@npm:0.5.5":
-  version: 0.5.5
-  resolution: "@contentlayer2/utils@npm:0.5.5"
+"@contentlayer2/utils@npm:0.5.8":
+  version: 0.5.8
+  resolution: "@contentlayer2/utils@npm:0.5.8"
   dependencies:
     "@effect-ts/core": ^0.60.5
     "@effect-ts/otel": ^0.15.1
@@ -1706,7 +1706,7 @@ __metadata:
       optional: true
     "@effect-ts/otel-node":
       optional: true
-  checksum: a5ff9b9360da71be70385651fe1c7bbf1163bcf80833199b6a9d94d3ea4d0958c842d145dc6d4f78e37b93c82a259e91965ce212f0632086f5876a71ba36d1a6
+  checksum: 31bb728d09da7767f19cd6308fc86c8235c076354acaa5d971f9588326c82f401579efa9a2e19b3bbf132525f594cfa94e25c1fce62cdfb9c6d82dd3d641fcfc
   languageName: node
   linkType: hard
 
@@ -4870,19 +4870,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"contentlayer2@npm:0.5.5":
-  version: 0.5.5
-  resolution: "contentlayer2@npm:0.5.5"
+"contentlayer2@npm:0.5.8":
+  version: 0.5.8
+  resolution: "contentlayer2@npm:0.5.8"
   dependencies:
-    "@contentlayer2/cli": 0.5.5
-    "@contentlayer2/client": 0.5.5
-    "@contentlayer2/core": 0.5.5
-    "@contentlayer2/source-files": 0.5.5
-    "@contentlayer2/source-remote-files": 0.5.5
-    "@contentlayer2/utils": 0.5.5
+    "@contentlayer2/cli": 0.5.8
+    "@contentlayer2/client": 0.5.8
+    "@contentlayer2/core": 0.5.8
+    "@contentlayer2/source-files": 0.5.8
+    "@contentlayer2/source-remote-files": 0.5.8
+    "@contentlayer2/utils": 0.5.8
   bin:
     contentlayer2: ./bin/cli.cjs
-  checksum: cac861fb9fdd1668ab61a56a0a21cb373d8dbe61f305e0d83eaed199521a2924e94bd488095500d631696205291ce09cfed3938c91c7f1bf6365f3a10c95fc4b
+  checksum: 4b928868a0e4f8b826bd4b9a0e6af08c62d07ef0064c6426e683b2855d7b23574b775f4037b9d693cdb7bfb5854c12e24671af95449d0513c90d72ba43d38002
   languageName: node
   linkType: hard
 
@@ -9240,18 +9240,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"next-contentlayer2@npm:0.5.5":
-  version: 0.5.5
-  resolution: "next-contentlayer2@npm:0.5.5"
+"next-contentlayer2@npm:0.5.8":
+  version: 0.5.8
+  resolution: "next-contentlayer2@npm:0.5.8"
   dependencies:
-    "@contentlayer2/core": 0.5.5
-    "@contentlayer2/utils": 0.5.5
+    "@contentlayer2/core": 0.5.8
+    "@contentlayer2/utils": 0.5.8
   peerDependencies:
-    contentlayer2: 0.5.5
+    contentlayer2: 0.5.8
     next: ">=12.0.0"
     react: ^18 || ^19 || ^19.0.0-rc
     react-dom: ^18 || ^19 || ^19.0.0-rc
-  checksum: aa849d54166b13b3090686e238b7d1b866a457e34405d26bcd0da331f63a8c768273e98d94d1fe4e8aaf530d6d474ac9a03682d82719d01584af076ca4db4716
+  checksum: 41f9d1cc021e87397e0dcdc89928e7292db775dfcc90850b0b9c6b85cdde8538b65e1ca2ad634a03c6b663f526d955ca11a02eb771e08663420e5254705359de
   languageName: node
   linkType: hard
 
@@ -11674,7 +11674,7 @@ __metadata:
     "@typescript-eslint/eslint-plugin": ^8.12.0
     "@typescript-eslint/parser": ^8.12.0
     body-scroll-lock: ^4.0.0-beta.0
-    contentlayer2: 0.5.5
+    contentlayer2: 0.5.8
     cross-env: ^7.0.3
     esbuild: 0.25.2
     eslint: ^9.14.0
@@ -11689,7 +11689,7 @@ __metadata:
     image-size: 2.0.1
     lint-staged: ^13.0.0
     next: 15.5.9
-    next-contentlayer2: 0.5.5
+    next-contentlayer2: 0.5.8
     next-themes: ^0.4.6
     pliny: 0.4.1
     postcss: ^8.4.24

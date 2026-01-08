@@ -1,3 +1,4 @@
+const path = require('path')
 const { withContentlayer } = require('next-contentlayer2')
 
 const withBundleAnalyzer = require('@next/bundle-analyzer')({
@@ -89,6 +90,7 @@ module.exports = () => {
         },
       ]
     },
+    outputFileTracingRoot: path.join(__dirname),
     webpack: (config, options) => {
       config.module.rules.push({
         test: /\.svg$/,

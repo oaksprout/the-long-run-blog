@@ -1,5 +1,7 @@
 {
-  "jinn": 1,
-  "ai": 1,
-  "agents": 1
+  "ai": 2,
+  "agents": 2,
+  "autonomous-systems": 1,
+  "content-strategy": 1,
+  "jinn": 1
 }
