@@ -11,9 +11,10 @@ export default function Footer() {
           <SocialIcon kind="github" href={siteMetadata.github} size={6} />
           <SocialIcon kind="x" href={siteMetadata.x} size={6} />
           <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size={6} />
+          <SocialIcon kind="discord" href={siteMetadata.discord} size={6} />
         </div>
         <div className="mb-2 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
-          <div className="font-semibold text-primary-500">{siteMetadata.author}</div>
+          <div className="text-primary-500 font-semibold">{siteMetadata.author}</div>
           <div>{` • `}</div>
           <div>{`© ${new Date().getFullYear()}`}</div>
           <div>{` • `}</div>

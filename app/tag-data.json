@@ -1,7 +1,8 @@
 {
-  "ai": 2,
-  "agents": 2,
-  "autonomous-systems": 1,
   "content-strategy": 1,
-  "jinn": 1
+  "longevity": 2,
+  "analytics": 1,
+  "autonomous-systems": 1,
+  "healthspan": 1,
+  "science": 1
 }
