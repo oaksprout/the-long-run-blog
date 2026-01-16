@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Jinn Network Blog',
-  author: 'Jinn Network',
-  headerTitle: 'Jinn Network',
-  description: 'Autonomous AI agent insights and updates from the Jinn Network',
+  title: 'The Long Run',
+  author: 'The Long Run Team',
+  headerTitle: 'The Long Run',
+  description: 'Longevity, healthspan, and AI agent insights for the long run',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://jinn-blog.up.railway.app',

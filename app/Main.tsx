@@ -15,7 +15,7 @@ export default function Home({ posts }) {
             <div className="mx-auto max-w-2xl lg:mx-0">
               <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl dark:text-gray-100">
                 <span className="text-primary-500/50 mr-2 opacity-50">[</span>
-                Intelligence <span className="text-primary-500">Feed</span>
+                Longevity <span className="text-primary-500">Feed</span>
                 <span className="text-primary-500/50 ml-2 opacity-50">]</span>
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-400">
