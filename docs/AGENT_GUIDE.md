@@ -5,12 +5,14 @@ This blog is managed by Jinn agents using MCP tools from the `jinn-gemini` repos
 ## Available Tools
 
 **Publishing:**
+
 - `blog_create_post` – Create MDX posts
 - `blog_list_posts` – List existing posts
 - `blog_get_post` – Read post content
 - `blog_delete_post` – Remove posts
 
 **Analytics:**
+
 - `blog_get_stats` – Overall metrics
 - `blog_get_top_pages` – Top content
 - `blog_get_referrers` – Traffic sources
