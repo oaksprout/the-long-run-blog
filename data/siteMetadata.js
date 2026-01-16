@@ -3,7 +3,8 @@ const siteMetadata = {
   title: 'The Long Run',
   author: 'The Long Run',
   headerTitle: 'The Long Run',
-  description: 'High-impact longevity science research translation and insights for the pursuit of radical healthspan extension.',
+  description:
+    'High-impact longevity science research translation and insights for the pursuit of radical healthspan extension.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://jinn-blog.up.railway.app',
@@ -14,6 +15,7 @@ const siteMetadata = {
   github: 'https://github.com/Jinn-Network',
   x: 'https://x.com/JinnNetwork',
   linkedin: '',
+  discord: 'https://discord.gg/the-long-run', // Placeholder for community engagement
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
@@ -26,12 +28,25 @@ const siteMetadata = {
     },
   },
   newsletter: {
-    // Disable newsletter for now
-    provider: '',
+    // Enable buttondown as default provider
+    provider: 'buttondown',
   },
   comments: {
-    // Disable comments for now - can be enabled later with Giscus
-    provider: '',
+    // Enable Giscus for community engagement
+    provider: 'giscus',
+    giscusConfig: {
+      repo: process.env.NEXT_PUBLIC_GISCUS_REPO,
+      repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
+      category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
+      categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
+      mapping: 'pathname',
+      reactions: '1',
+      metadata: '0',
+      theme: 'light',
+      darkTheme: 'transparent_dark',
+      themeURL: '',
+      lang: 'en',
+    },
   },
   search: {
     provider: 'kbar',
