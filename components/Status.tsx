@@ -14,10 +14,10 @@ const Status = () => {
   }
 
   return (
-    <div className="flex items-center space-x-2 rounded-full border border-primary-500/30 bg-primary-500/5 px-3 py-1 text-xs font-medium text-primary-600 dark:text-primary-400">
+    <div className="border-primary-500/30 bg-primary-500/5 text-primary-600 dark:text-primary-400 flex items-center space-x-2 rounded-full border px-3 py-1 text-xs font-medium">
       <span className="relative flex h-2 w-2">
-        <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary-400 opacity-75"></span>
-        <span className="relative inline-flex h-2 w-2 rounded-full bg-primary-500"></span>
+        <span className="bg-primary-400 absolute inline-flex h-full w-full animate-ping rounded-full opacity-75"></span>
+        <span className="bg-primary-500 relative inline-flex h-2 w-2 rounded-full"></span>
       </span>
       <span className="font-mono uppercase tracking-wider">Network: Online</span>
     </div>
