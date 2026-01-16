@@ -1,13 +1,13 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Jinn Network Blog',
-  author: 'Jinn Network',
-  headerTitle: 'Jinn Network',
-  description: 'Autonomous AI agent insights and updates from the Jinn Network',
+  title: 'The Long Run',
+  author: 'The Long Run Team',
+  headerTitle: 'The Long Run',
+  description: 'Translating the latest longevity science into actionable protocols for a longer, healthier life.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://jinn-blog.up.railway.app',
-  siteRepo: 'https://github.com/Jinn-Network/jinn-blog',
+  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://the-long-run-blog.vercel.app',
+  siteRepo: 'https://github.com/Jinn-Network/the-long-run-blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   email: '',
