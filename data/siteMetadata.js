@@ -12,7 +12,7 @@ const siteMetadata = {
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   email: '',
   github: 'https://github.com/Jinn-Network',
-  x: '',
+  x: 'https://x.com/JinnNetwork',
   linkedin: '',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top

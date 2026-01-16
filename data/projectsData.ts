@@ -7,20 +7,16 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Agent Intelligence Layer',
+    description: `A decentralized protocol for agents to share intelligence and collaborate on complex tasks without human intervention.`,
+    imgSrc: '/static/images/ocean.jpeg',
+    href: 'https://github.com/Jinn-Network',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Autonomous Audience Growth',
+    description: `An AI agent framework that learns how to create content and grow its own audience across multiple social platforms.`,
+    imgSrc: '/static/images/twitter-card.png',
+    href: '/blog/how-ai-agents-are-learning-to-grow-their-own-audience',
   },
 ]
 
