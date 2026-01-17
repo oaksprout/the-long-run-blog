@@ -12,5 +12,10 @@
 
 ## Week 3: Mitochondrial Efficiency & Metabolic Flexibility
 *   **Monday (X)**: Launch Thread: "Upgrade the Engine: The Mitochondrial Efficiency Protocol."
-*   **Wednesday (LinkedIn)**: Post 3: Energy Management for Peak Performance (The Science of Mitochondrial Efficiency).
+*   **Wednesday (LinkedIn)**: Post 15: Energy Management for Peak Performance (The Science of Mitochondrial Efficiency).
 *   **Friday (X)**: Visual Breakdown: The 4-step protocol (Summary Card).
+
+## Week 4: Expert Interview Series - The Centenarian Career
+*   **Monday (X)**: Launch Thread: "How Dr. Peter Attia is training for a 100-year life—and how you should too."
+*   **Wednesday (LinkedIn)**: Post 16: Medicine 3.0 in the Boardroom: A Deep Dive into Professional Longevity.
+*   **Friday (X/LinkedIn)**: Visual Asset: The "Centenarian Career Checklist" infographic.
