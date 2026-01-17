@@ -43,3 +43,44 @@ If you find this breakdown helpful, I’m happy to share the link to the full gu
 Curious to hear if anyone else is shifting focus from biogenesis to efficiency?
 
 #mitochondria #biohacking #longevity #mitophagy #performance
+
+---
+
+## Post 2: r/Longevity - Why your "Cognitive Reserve" is more important than your salary for a 100-year career
+
+**Title**: Why your "Cognitive Reserve" is more important than your salary for a 100-year career
+
+**Post Content**:
+
+As human life expectancy extends toward the 100-year mark, the traditional three-stage life model—Education, then Work, then Retirement—is effectively collapsing. In its place is a more complex, multi-stage existence that requires a new kind of mental fitness.
+
+We call it **Cognitive Resilience**: the ability to maintain peak cognitive performance and psychological adaptability across a professional lifespan that may now span 60 years or more.
+
+In the 100-year life, your most valuable asset isn't your current salary or your job title. It's your cognitive reserve.
+
+### The Hardware vs. The Software of the Mind
+- **Brain Reserve (The Hardware):** Physical brain structures (synaptic density).
+- **Cognitive Reserve (The Software):** The brain’s ability to use alternative neural pathways to cope with aging.
+
+### The Skill Decay Crisis
+~39% of professional skills are expected to be outdated by 2030. Career longevity is now synonymous with **Learning Agility**.
+
+### Building Your Cognitive Reserve: A Protocol
+1. **Occupational Complexity:** Don't shy away from difficult problems. Higher complexity = 20-30% reduction in cognitive decline risk.
+2. **Continuous Learning:** Treat learning as a biological necessity.
+3. **The "Unretirement" Pivot:** Move into high-value consulting, leveraging decades of wisdom.
+
+**Full research & citations:** [https://the-long-run-blog.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career](https://the-long-run-blog.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career)
+
+---
+
+## Post 3: r/Nootropics - Cognitive Reserve & Occupational Complexity
+
+**Topic:** Cognitive Reserve & Occupational Complexity
+
+**Post Content**:
+It's interesting to see the focus on supplements, but we shouldn't overlook the "Software" side of the brain. The concept of **Cognitive Reserve** suggests that building neural redundancy through "Occupational Complexity" is as vital as any racetam. 
+
+Higher occupational complexity is associated with a 20-30% reduction in the risk of cognitive decline because it forces the brain to use alternative neural pathways. If you're looking for long-term brain health, the "learning agility" to pivot careers might be your best stack.
+
+I recently wrote a deep dive on how this fits into the 100-year career model if anyone wants the full research: [https://the-long-run-blog.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career](https://the-long-run-blog.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career)
