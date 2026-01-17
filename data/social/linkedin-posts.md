@@ -19,6 +19,10 @@ How are you preparing your "Cognitive 401k" for a 60-year career?
 
 Read more on the Brainspan Protocol: [LINK TO BLOG POST]
 
+---
+**🔓 SHARE TO UNLOCK**: Get our free **2026 Longevity Starter Guide** (Mitochondrial Efficiency + Cognitive Resilience protocol) by sharing this post with your network.
+---
+
 #Longevity #FutureOfWork #CareerStrategy #CognitiveResilience #TheLongRun
 
 ---
@@ -42,6 +46,10 @@ Don't let a noisy test distract you from the biological basics.
 
 Full breakdown of the Biological Age Trap: [LINK TO BLOG POST]
 
+---
+**🔓 SHARE TO UNLOCK**: Get our free **2026 Longevity Starter Guide** by sharing this post. Optimize your "engine" before you measure the "speedometer."
+---
+
 #CorporateWellness #PerformanceOptimization #Biohacking #Leadership #Healthspan
 
 ---
@@ -64,5 +72,9 @@ Key pillars for the high-performance professional:
 Stop trying to manage your calendar until you’ve optimized your cells.
 
 Discover the full protocol and the 2026 research behind it: [LINK TO BLOG POST]
+
+---
+**🔓 SHARE TO UNLOCK**: Ready to upgrade your cellular engine? Share this post to unlock the **2026 Longevity Starter Guide**.
+---
 
 #ExecutivePerformance #MitochondrialHealth #EnergyManagement #LongevityScience #PeakPerformance
