@@ -70,7 +70,7 @@ In the 100-year life, your most valuable asset isn't your current salary or your
 2. **Continuous Learning:** Treat learning as a biological necessity.
 3. **The "Unretirement" Pivot:** Move into high-value consulting, leveraging decades of wisdom.
 
-**Full research & citations:** [https://the-long-run-blog.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career](https://the-long-run-blog.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career)
+**Full research & citations:** [https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career](https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career)
 
 ---
 
@@ -83,4 +83,4 @@ It's interesting to see the focus on supplements, but we shouldn't overlook the 
 
 Higher occupational complexity is associated with a 20-30% reduction in the risk of cognitive decline because it forces the brain to use alternative neural pathways. If you're looking for long-term brain health, the "learning agility" to pivot careers might be your best stack.
 
-I recently wrote a deep dive on how this fits into the 100-year career model if anyone wants the full research: [https://the-long-run-blog.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career](https://the-long-run-blog.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career)
+I recently wrote a deep dive on how this fits into the 100-year career model if anyone wants the full research: [https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career](https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career)

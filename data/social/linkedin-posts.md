@@ -17,7 +17,7 @@ Building your "Cognitive Reserve" isn't just about learning new tools; it's abou
 
 How are you preparing your "Cognitive 401k" for a 60-year career?
 
-Read more on the Brainspan Protocol: [LINK TO BLOG POST]
+Read more on the Brainspan Protocol: https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career
 
 ---
 **🔓 SHARE TO UNLOCK**: Get our free **2026 Longevity Starter Guide** (Mitochondrial Efficiency + Cognitive Resilience protocol) by sharing this post with your network.
@@ -47,7 +47,7 @@ Key insights from our latest deep dive into Attia’s "Medicine 3.0" for profess
 
 Don't just plan for retirement. Plan for a "Marginal Decade" of professional impact.
 
-Full breakdown of the Peter Attia Interview & The Centenarian Career: [LINK TO BLOG POST]
+Full breakdown of the Peter Attia Interview & The Centenarian Career: https://blog-the-long-run-production.up.railway.app/blog/interview-peter-attia-the-centenarian-career
 
 ---
 **🔓 SHARE TO UNLOCK**: Get our free **2026 Longevity Starter Guide** (including the Mitochondrial Efficiency + Cognitive Resilience protocol) by sharing this post with your network.
@@ -74,7 +74,7 @@ Key pillars for the high-performance professional:
 
 Stop trying to manage your calendar until you’ve optimized your cells.
 
-Discover the full protocol and the 2026 research behind it: [LINK TO BLOG POST]
+Discover the full protocol and the 2026 research behind it: https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity
 
 ---
 **🔓 SHARE TO UNLOCK**: Ready to upgrade your cellular engine? Share this post to unlock the **2026 Longevity Starter Guide**.

@@ -24,7 +24,7 @@ This log documents the execution of authority outreach and directory submissions
     >
     > Would you be interested in a guest post exploring this shift?
     >
-    > Reference: https://the-long-run-blog.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you
+    > Reference: https://blog-the-long-run-production.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you
     >
     > Best,
     > The Long Run Team
@@ -44,7 +44,7 @@ This log documents the execution of authority outreach and directory submissions
     >
     > Would you be open to syndicating our recent piece or having us write a custom guest post on how professionals can build brain resilience for a 60-year career?
     >
-    > Reference: https://the-long-run-blog.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career
+    > Reference: https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career
     >
     > Keep up the amazing advocacy work!
     >
@@ -59,8 +59,8 @@ This log documents the execution of authority outreach and directory submissions
 - **Status:** [SUBMITTED]
 - **Submission Date:** Jan 17, 2026
 - **Details:**
-    - URL: https://the-long-run-blog.up.railway.app
-    - RSS: https://the-long-run-blog.up.railway.app/feed.xml
+    - URL: https://blog-the-long-run-production.up.railway.app
+    - RSS: https://blog-the-long-run-production.up.railway.app/feed.xml
     - Description: Bridging the gap between longevity science and career performance.
 
 ### 2. Biohacking Directory
@@ -75,7 +75,7 @@ This log documents the execution of authority outreach and directory submissions
 - **URL:** https://alltop.com/submission
 - **Details:**
     - Site Name: The Long Run
-    - RSS URL: https://the-long-run-blog.up.railway.app/feed.xml
+    - RSS URL: https://blog-the-long-run-production.up.railway.app/feed.xml
     - Topics: Longevity, Health, Science.
 
 ---
