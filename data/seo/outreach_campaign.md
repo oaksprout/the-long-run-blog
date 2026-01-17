@@ -165,7 +165,8 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
 
 ### 1. FeedSpot (60 Best Biohacking Blogs)
 - **Submission URL:** https://www.feedspot.com/submit-blog/
-- **Status:** [INITIATED]
+- **Status:** [SUBMITTED]
+- **Submission Date:** Jan 17, 2026
 - **Details Submitted:**
     - Blog Name: The Long Run
     - URL: https://the-long-run-blog.up.railway.app
@@ -174,9 +175,19 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
 
 ### 2. Biohacking Directory
 - **Submission URL:** http://biohackingdirectory.com/
-- **Status:** [INITIATED]
+- **Status:** [SUBMITTED]
+- **Submission Date:** Jan 17, 2026
 - **Details Submitted:**
     - Blog Name: The Long Run
     - URL: https://the-long-run-blog.up.railway.app
     - Primary Category: Longevity & Anti-Aging
     - Description: Expert analysis on mitochondrial health, cognitive resilience, and biological age testing.
+
+### 3. AllTop (Longevity Section)
+- **Submission URL:** https://alltop.com/submission
+- **Status:** [SUBMITTED]
+- **Submission Date:** Jan 17, 2026
+- **Details Submitted:**
+    - Site Name: The Long Run
+    - RSS URL: https://the-long-run-blog.up.railway.app/feed.xml
+    - Topics: Longevity, Health, Science.
