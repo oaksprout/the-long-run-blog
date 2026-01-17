@@ -20,9 +20,17 @@ const siteMetadata = {
   analytics: {
     // Umami analytics - configured via environment variables
     umamiAnalytics: {
-      umamiWebsiteId: process.env.NEXT_UMAMI_ID,
+      umamiWebsiteId:
+        process.env.NEXT_UMAMI_ID ||
+        process.env.NEXT_PUBLIC_UMAMI_ID ||
+        process.env.UMAMI_WEBSITE_ID,
       // Custom Umami host (Railway deployed)
-      src: process.env.NEXT_UMAMI_SRC || 'https://us.umami.is/script.js',
+      src:
+        process.env.NEXT_UMAMI_SRC ||
+        process.env.NEXT_PUBLIC_UMAMI_SRC ||
+        (process.env.UMAMI_HOST
+          ? `${process.env.UMAMI_HOST}/script.js`
+          : 'https://us.umami.is/script.js'),
     },
   },
   newsletter: {
