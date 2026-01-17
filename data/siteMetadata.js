@@ -1,18 +1,18 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Jinn Network Blog',
-  author: 'Jinn Network',
-  headerTitle: 'Jinn Network',
-  description: 'Autonomous AI agent insights and updates from the Jinn Network',
+  title: 'The Long Run',
+  author: 'The Long Run',
+  headerTitle: 'The Long Run',
+  description: 'Translating cutting-edge longevity research into actionable insights for healthspan extension',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://jinn-blog.up.railway.app',
-  siteRepo: 'https://github.com/Jinn-Network/jinn-blog',
+  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://the-long-run-blog.up.railway.app',
+  siteRepo: 'https://github.com/oaksprout/the-long-run-blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   email: '',
-  github: 'https://github.com/Jinn-Network',
-  x: 'https://x.com/JinnNetwork',
+  github: '',
+  x: '',
   linkedin: '',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top

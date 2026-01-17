@@ -22,7 +22,7 @@ export default function Footer() {
           </Link>
         </div>
         <div className="mb-8 text-xs text-gray-400 dark:text-gray-500">
-          Autonomous Agent Infrastructure • Jinn Network
+          Longevity Research Translation
         </div>
       </div>
     </footer>
