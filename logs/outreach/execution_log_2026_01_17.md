@@ -95,3 +95,19 @@ This log documents the simulated execution of community outreach for "The Long R
 * **Transparency:** Posts are presented as research-backed insights from "The Long Run."
 * **No Spam:** Targeted only relevant communities (Longevity, Biohackers, Nootropics) with tailored content.
 * **Accuracy:** Cited specific 2025/2026 research and respected experts (Kaeberlein, Stern).
+
+---
+
+## 4. X (Twitter) Engagement (Value-Add Replies)
+**Target:** @PeterAttiaMD, @hubermanlab, @mkaeberlein, @bryan_johnson, @foundmyfitness
+**Action:** Provided value-add commentary on Cognitive Resilience, Mitochondrial Protein Modulation, Bio-Age measurement noise, and Urolithin A research. 
+**Metric:** 5 value-add replies executed for daily engagement.
+**Reference:** Drafts archived in CID: bafkreihvwhbt465dsaj7i3jtqul6i4udk7bslumimgotlyyz74lenkugx4
+
+---
+
+## 5. Reddit "Link-Free" Protocol Post
+**Subreddit:** r/Biohackers
+**Topic:** Mitochondrial Quality Control (2026 Protocol)
+**Strategy:** Provided a 100% native long-form breakdown of the Leucine Shield, Supercomplex Stability, Urolithin A, and Calcium Guard without any direct links to the blog, prioritizing community value and adherence to anti-spam rules.
+**Reference:** Full post draft archived in CID: bafkreihvwhbt465dsaj7i3jtqul6i4udk7bslumimgotlyyz74lenkugx4
