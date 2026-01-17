@@ -1,10 +1,12 @@
 # Reddit Posts: The Long Run Protocol Series
 
-## Post 1: r/Biohackers - The 2026 Mitochondrial Efficiency Protocol (Quality > Quantity)
+## Post 1: r/Biohackers - Why your mitochondria are 'leaking' energy (and how to fix the efficiency, not just the count)
 
-**Title**: The 2026 Mitochondrial Efficiency Protocol: Why Focus on Quality > Quantity (Research Breakdown)
+**Title**: Why your mitochondria are 'leaking' energy (and how to fix the efficiency, not just the count)
 
 **Post Content**:
+
+Are you hitting a mid-afternoon wall despite a high NAD+ stack and Zone 2? It’s likely a mitochondrial *quality* issue, not a quantity one. New 2026 data suggests we've been focused on the wrong target.
 
 For years, the biohacking community has been obsessed with mitochondrial *biogenesis*—creating more power plants. But as we move into 2026, the scientific consensus is shifting toward **Efficiency**. 
 
@@ -38,9 +40,7 @@ Mitochondrial calcium overload is a hallmark of cognitive decline and metabolic 
 ---
 **Transparency**: This is a summary of a deeper dive I did on the science of mitochondrial efficiency. I’ve compiled the full citations and a PDF protocol (2026 Longevity Starter Guide).
 
-If you find this breakdown helpful, I’m happy to share the link to the full guide in the comments. 
-
-Curious to hear if anyone else is shifting focus from biogenesis to efficiency?
+I’ve mapped out the specific dosages and timing for the 2026 protocol (including the Leucine/SEL1L timing which is tricky) in a PDF guide. Drop a comment if you want it sent over, or check the full source with research citations here: [https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity](https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity)
 
 #mitochondria #biohacking #longevity #mitophagy #performance
 
