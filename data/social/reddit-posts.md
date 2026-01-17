@@ -84,3 +84,48 @@ It's interesting to see the focus on supplements, but we shouldn't overlook the 
 Higher occupational complexity is associated with a 20-30% reduction in the risk of cognitive decline because it forces the brain to use alternative neural pathways. If you're looking for long-term brain health, the "learning agility" to pivot careers might be your best stack.
 
 I recently wrote a deep dive on how this fits into the 100-year career model if anyone wants the full research: [https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career](https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career)
+
+---
+
+## Post 4: r/Biohackers - The Biological Age Trap: 18 years of "Noise"
+
+**Headline:** Don't drop $300 on a "Bio-Age" test until you read about the 18-year "Noise" problem
+
+**Post Content**:
+
+Direct-to-consumer (DTC) biological age tests (epigenetic clocks) are exploding in popularity, but for individual health tracking, they are currently plagued by "statistical noise."
+
+**The Evidence (Kaeberlein Experiment):**
+Dr. Matt Kaeberlein took 8 different tests on the same day using the same samples. His "biological age" ranged from **43 to 61 years**. An 18-year spread on the same day.
+
+**Why the noise is so loud:**
+1.  **The Tissue Trap:** Blood measures immune aging; Saliva is 35% epithelial cells. Using a blood-trained clock on saliva can swing results by **30 years**.
+2.  **The Snapshot Problem:** Factors like inflammation, jet lag, or time of day can skew readings by up to **5.5 years**.
+3.  **1st Gen vs 2nd Gen:** Most cheap tests use 1st gen clocks (trained on chronological age). Demand 2nd gen clocks (like **GrimAge**) which are better predictors of actual mortality risk.
+
+**Smart Friend Advice:** Invest in the intervention (strength training, sleep) over the indicator until the technology matures.
+
+**Full breakdown of the science:** [https://blog-the-long-run-production.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you](https://blog-the-long-run-production.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you)
+
+---
+
+## Post 5: r/Longevity - Peter Attia on the "Centenarian Career"
+
+**Headline:** Peter Attia on the "Centenarian Career": How to train for a 60-year professional lifespan
+
+**Post Content**:
+
+Most people focus on Dr. Peter Attia's advice for VO2 max and deadlifts. But as we move toward a 100-year life, we need to apply "Medicine 3.0" to our professional lives. We aren't just training for a physical "Centenarian Decathlon"—we’re training for a "Centenarian Career."
+
+**Key Takeaways from the 2026 Synthesis:**
+
+*   **The Marginal Career Decade:** Don't view your career as a sprint to 65. If you want to be high-level at 85 (consulting, writing, advising), you need to "over-train" your crystallized intelligence and cognitive stability in your 40s and 50s.
+*   **The GLP-1 Muscle Trap:** For knowledge workers using GLP-1s for metabolic health: Muscle is a metabolic sink for the brain. If you lose lean mass, you sabotage long-term cognitive resilience. Heavy resistance training is non-negotiable.
+*   **Professional Stability:** Just as physical stability prevents injury, emotional/psychological stability prevents professional "fragility." Burnout often happens because the system can't absorb market shocks.
+
+**The 2026 Centenarian Career Protocol:**
+1. **Zone 2 for Brainspan:** 3 hours/week to "flush" the prefrontal cortex.
+2. **The Skill Audit:** What 3 things do you want to do at 85? Are you training those specific neural pathways now?
+3. **Strength as Neuroprotection:** Resistance training is for metabolic brain health, not just bones.
+
+**Full deep dive on the Attia interview synthesis:** [https://blog-the-long-run-production.up.railway.app/blog/interview-peter-attia-the-centenarian-career](https://blog-the-long-run-production.up.railway.app/blog/interview-peter-attia-the-centenarian-career)
