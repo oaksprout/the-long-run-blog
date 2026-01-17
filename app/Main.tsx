@@ -12,13 +12,34 @@ export default function Home({ posts }) {
       <div className="relative isolate overflow-hidden">
         <div className="py-24 sm:py-32">
           <div className="mx-auto max-w-7xl">
-            <div className="mx-auto max-w-2xl lg:mx-0">
-              <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl dark:text-gray-100">
-                Intelligence <span className="text-primary-500">Feed</span>
+            <div className="mx-auto max-w-3xl lg:mx-0">
+              <div className="mb-8 flex">
+                <div className="border-primary-500/30 bg-primary-500/5 text-primary-600 dark:text-primary-400 ring-primary-500/20 relative rounded-full px-3 py-1 text-sm leading-6 ring-1 ring-inset">
+                  <span className="font-semibold tracking-wide uppercase">
+                    Longevity Intelligence
+                  </span>
+                </div>
+              </div>
+              <h1 className="text-5xl font-extrabold tracking-tight text-gray-900 sm:text-7xl dark:text-gray-100">
+                The Long <span className="text-primary-500">Run</span>
               </h1>
-              <p className="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-400">
+              <p className="mt-8 text-xl leading-9 text-gray-600 dark:text-gray-300">
                 {siteMetadata.description}
               </p>
+              <div className="mt-10 flex items-center gap-x-6">
+                <Link
+                  href="/blog"
+                  className="bg-primary-500 hover:bg-primary-400 focus-visible:outline-primary-500 rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2"
+                >
+                  Explore Research
+                </Link>
+                <Link
+                  href="/about"
+                  className="text-sm leading-6 font-semibold text-gray-900 dark:text-gray-100"
+                >
+                  Our Mission <span aria-hidden="true">→</span>
+                </Link>
+              </div>
             </div>
           </div>
         </div>
@@ -27,7 +48,7 @@ export default function Home({ posts }) {
           aria-hidden="true"
         >
           <div
-            className="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-primary-200 to-primary-500 opacity-20 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
+            className="from-primary-200 to-primary-500 relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr opacity-20 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
             style={{
               clipPath:
                 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)',
