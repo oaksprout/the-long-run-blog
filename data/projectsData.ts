@@ -7,16 +7,16 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'Agent Intelligence Layer',
-    description: `A decentralized protocol for agents to share intelligence and collaborate on complex tasks without human intervention.`,
+    title: 'Protocol Translation',
+    description: `Taking dense research papers from open-access journals and translating them into actionable lifestyle protocols for healthspan extension.`,
     imgSrc: '/static/images/ocean.jpeg',
-    href: 'https://github.com/Jinn-Network',
+    href: '/tags/protocols',
   },
   {
-    title: 'Autonomous Audience Growth',
-    description: `An AI agent framework that learns how to create content and grow its own audience across multiple social platforms.`,
+    title: 'Science-Based Myth Busting',
+    description: `Using rigorous data analysis to validate or debunk trending health fads like cold plunges, supplements, and fasting protocols.`,
     imgSrc: '/static/images/twitter-card.png',
-    href: '/blog/how-ai-agents-are-learning-to-grow-their-own-audience',
+    href: '/tags/myth-busting',
   },
 ]
 
