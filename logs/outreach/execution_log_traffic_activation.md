@@ -8,7 +8,7 @@ Executed high-value, "no-click" engagement across Reddit (r/Biohackers, r/Longev
 ### 1. Reddit (r/Biohackers) - Value-First Post
 - **Content**: Detailed breakdown of the 2026 Mitochondrial Efficiency Protocol (Leucine Shield, Respiratory Supercomplexes, Urolithin A, Calcium Guard).
 - **Strategy**: Provided 100% of the protocol in the post body.
-- **Link**: Deep dive source link to `the-long-run-blog.up.railway.app`.
+- **Link**: Deep dive source link to `blog-the-long-run-production.up.railway.app`.
 
 ### 2. Reddit (r/Longevity) - Targeted Commenting
 - **Target**: Discussions on mitophagy and immune rejuvenation.

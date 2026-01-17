@@ -16,7 +16,7 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
     >
     > We explore the 2026 Metabolic Switching Protocol and how it optimizes mitochondrial quality rather than just volume. Thought it might be a valuable resource for your "Best of the Week" or as a reference for your show notes.
     >
-    > Link: https://the-long-run-blog.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity
+    > Link: https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity
     >
     > Keep up the great work!
 
@@ -31,7 +31,7 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
     >
     > Given your deep dives into NRF2 and metabolic pathways, I thought your community would find this synthesis of quality-focused mitochondrial health useful.
     >
-    > Link: https://the-long-run-blog.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity
+    > Link: https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity
     >
     > Best regards,
     > The Long Run Team
@@ -47,7 +47,7 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
     >
     > This would be a perfect fit for your "Tech Insights" or as a guest contribution. We’ve analyzed the latest consumer kits vs. lab-grade blood tests.
     >
-    > Link: https://the-long-run-blog.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you
+    > Link: https://blog-the-long-run-production.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you
     >
     > Cheers!
 
@@ -62,7 +62,7 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
     >
     > Would love to discuss syndicating this or providing a guest post on cognitive resilience.
     >
-    > Link: https://the-long-run-blog.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career
+    > Link: https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career
     >
     > Best,
     > The Long Run
@@ -78,7 +78,7 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
     >
     > Thought it might be worth a mention in your daily news update or resource lists.
     >
-    > Link: https://the-long-run-blog.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity
+    > Link: https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity
     >
     > Thank you!
 
@@ -93,7 +93,7 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
     >
     > We think this aligns perfectly with the Blue Zones philosophy and would love to share it with your readers.
     >
-    > Link: https://the-long-run-blog.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career
+    > Link: https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career
     >
     > Warmly,
     > The Long Run
@@ -107,7 +107,7 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
     >
     > I’ve always appreciated your evolutionary perspective on aging. We’ve just posted a piece that argues for a shift from mitochondrial "quantity" to "quality" through metabolic switching—a topic I think fits your focus on the mechanisms of aging.
     >
-    > Link: https://the-long-run-blog.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity
+    > Link: https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity
     >
     > Best,
     > The Long Run
@@ -123,7 +123,7 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
     >
     > Given how many men are now turning to these tests, this could be a high-value piece for "The Edge."
     >
-    > Link: https://the-long-run-blog.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you
+    > Link: https://blog-the-long-run-production.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you
     >
     > Cheers!
 
@@ -138,7 +138,7 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
     >
     > This would be a great item for your daily newsletter.
     >
-    > Link: https://the-long-run-blog.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you
+    > Link: https://blog-the-long-run-production.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you
     >
     > Best,
     > The Long Run
@@ -154,7 +154,7 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
     >
     > Thought it would be a great resource for your audience.
     >
-    > Link: https://the-long-run-blog.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity
+    > Link: https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity
     >
     > Best,
     > The Long Run
@@ -169,8 +169,8 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
 - **Submission Date:** Jan 17, 2026
 - **Details Submitted:**
     - Blog Name: The Long Run
-    - URL: https://the-long-run-blog.up.railway.app
-    - RSS Feed: https://the-long-run-blog.up.railway.app/feed.xml
+    - URL: https://blog-the-long-run-production.up.railway.app
+    - RSS Feed: https://blog-the-long-run-production.up.railway.app/feed.xml
     - Description: Translating cutting-edge longevity research into actionable insights for healthspan extension.
 
 ### 2. Biohacking Directory
@@ -179,7 +179,7 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
 - **Submission Date:** Jan 17, 2026
 - **Details Submitted:**
     - Blog Name: The Long Run
-    - URL: https://the-long-run-blog.up.railway.app
+    - URL: https://blog-the-long-run-production.up.railway.app
     - Primary Category: Longevity & Anti-Aging
     - Description: Expert analysis on mitochondrial health, cognitive resilience, and biological age testing.
 
@@ -189,5 +189,5 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
 - **Submission Date:** Jan 17, 2026
 - **Details Submitted:**
     - Site Name: The Long Run
-    - RSS URL: https://the-long-run-blog.up.railway.app/feed.xml
+    - RSS URL: https://blog-the-long-run-production.up.railway.app/feed.xml
     - Topics: Longevity, Health, Science.

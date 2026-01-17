@@ -19,7 +19,7 @@ This log documents the simulated execution of community outreach for "The Long R
 > * **The Identity Pivot:** Move from a "Fixed Identity" (I am a lawyer) to a "Fluid/Portfolio Identity" (I am a problem-solver with expertise in law and AI).
 > * **Actionable Tip:** Seek "Occupational Complexity." High-complexity tasks are associated with a 20-30% reduction in cognitive decline risk (Stern, 2009).
 > 
-> **Full research & citations:** [https://the-long-run-blog.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career](https://the-long-run-blog.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career)
+> **Full research & citations:** [https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career](https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career)
 
 ### r/Biohackers
 **Topic:** The Mitochondrial Efficiency Protocol
@@ -42,7 +42,7 @@ This log documents the simulated execution of community outreach for "The Long R
 > * ✅ Zone 2 Aerobic Base
 > * ✅ 30s Morning Cold Exposure
 > 
-> **Read the full protocol and citations:** [https://the-long-run-blog.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity](https://the-long-run-blog.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity)
+> **Read the full protocol and citations:** [https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity](https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity)
 
 ### r/Nootropics
 **Topic:** Cognitive Reserve & Occupational Complexity
@@ -52,7 +52,7 @@ This log documents the simulated execution of community outreach for "The Long R
 > 
 > Higher occupational complexity is associated with a 20-30% reduction in the risk of cognitive decline because it forces the brain to use alternative neural pathways. If you're looking for long-term brain health, the "learning agility" to pivot careers might be your best stack.
 > 
-> I recently wrote a deep dive on how this fits into the 100-year career model if anyone wants the full research: [https://the-long-run-blog.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career](https://the-long-run-blog.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career)
+> I recently wrote a deep dive on how this fits into the 100-year career model if anyone wants the full research: [https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career](https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career)
 
 ---
 
@@ -72,7 +72,7 @@ This log documents the simulated execution of community outreach for "The Long R
 > 
 > **Strategy:** If you're testing, look for 2nd Gen clocks (GrimAge/PhenoAge) and prioritize blood-based tests over saliva. Better yet, invest in the intervention (Zone 2, strength) rather than the indicator until the tech matures.
 > 
-> Detailed breakdown of the Kaeberlein experiment and tissue trap: [https://the-long-run-blog.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you](https://the-long-run-blog.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you)
+> Detailed breakdown of the Kaeberlein experiment and tissue trap: [https://blog-the-long-run-production.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you](https://blog-the-long-run-production.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you)
 
 ### LongevityBase
 **Topic:** Mitochondrial Quality Control - Jan 2026 Research
@@ -86,7 +86,7 @@ This log documents the simulated execution of community outreach for "The Long R
 > * 500mg Urolithin A (Mitophagy)
 > * Zone 2 (Supercomplex stability)
 > 
-> Full protocol and citation list: [https://the-long-run-blog.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity](https://the-long-run-blog.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity)
+> Full protocol and citation list: [https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity](https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity)
 
 ---
 
