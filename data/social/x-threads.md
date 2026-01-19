@@ -22,7 +22,11 @@ This is a **Portfolio Identity**.
 
 6/ The 100-year career isn't a marathon. It's a series of sprints, rests, and pivots. Protect your Brainspan today to ensure your later stages are as vibrant as your first.
 
-7/ Deep dive into the science of Cognitive Resilience here: [LINK] #Longevity #Career #Brainspan #TheLongRun
+7/ Deep dive into the science of Cognitive Resilience here: https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career 
+
+8/ 🔓 **SHARE TO UNLOCK**: We’ve built the "2026 Longevity Starter Guide" to help you start your 100-year career prep. Retweet this thread to unlock your free download. 
+
+#Longevity #Career #Brainspan #TheLongRun
 
 ---
 
@@ -48,7 +52,11 @@ If you test, demand 2nd Gen models.
 2. Look for "Test-Retest Reliability" data.
 3. Invest in the **Intervention** (Gym, Sleep, Nutrition) over the **Indicator**.
 
-7/ Don't let a noisy test distract you from the basics. Read the full breakdown of the Bio-Age Trap: [LINK] #Biohacking #Longevity #Epigenetics #TheLongRun
+7/ Don't let a noisy test distract you from the basics. Read the full breakdown of the Bio-Age Trap: https://blog-the-long-run-production.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you
+
+8/ 🔓 **SHARE TO UNLOCK**: Don't just measure aging—manage it. Retweet this thread to unlock our free **2026 Longevity Starter Guide**.
+
+#Biohacking #Longevity #Epigenetics #TheLongRun
 
 ---
 
@@ -77,4 +85,8 @@ Fix: Magnesium intake + Stress management (Cortisol management) to protect your 
 ✅ Zone 2 Aerobic Base
 ✅ 30s Morning Cold Exposure
 
-7/ Focus on clean energy, not just more energy. Full protocol and research sources here: [LINK] #Longevity #Mitochondria #Biohacking #TheLongRun
+7/ Focus on clean energy, not just more energy. Full protocol and research sources here: https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity
+
+8/ 🔓 **SHARE TO UNLOCK**: Ready for a biological engine upgrade? Retweet this thread to unlock the **2026 Longevity Starter Guide**.
+
+#Longevity #Mitochondria #Biohacking #TheLongRun

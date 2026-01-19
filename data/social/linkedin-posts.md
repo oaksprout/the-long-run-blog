@@ -17,32 +17,43 @@ Building your "Cognitive Reserve" isn't just about learning new tools; it's abou
 
 How are you preparing your "Cognitive 401k" for a 60-year career?
 
-Read more on the Brainspan Protocol: [LINK TO BLOG POST]
+Read more on the Brainspan Protocol: https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career
+
+---
+**🔓 SHARE TO UNLOCK**: Get our free **2026 Longevity Starter Guide** (Mitochondrial Efficiency + Cognitive Resilience protocol) by sharing this post with your network.
+---
 
 #Longevity #FutureOfWork #CareerStrategy #CognitiveResilience #TheLongRun
 
 ---
 
-## Post 2: Beyond the Hype: Investing in Health Interventions vs. Indicators
+## Post 2: The Centenarian Career: Applying Peter Attia’s Framework to the C-Suite
 **Target Date**: Week 2, Wednesday
-**Topic**: Investing in the Intervention vs. the Indicator (Corporate Wellness focus).
+**Topic**: The "Healthspan as Wealth" Pivot: Professional Longevity and the Centenarian Decathlon.
 
-The "Biological Age" market is booming, with saliva-based kits and AI clocks promising to tell you how "old" you really are. But for leaders and corporate wellness programs, there’s a critical distinction to make: are you measuring the indicator or investing in the intervention?
+Dr. Peter Attia’s "Centenarian Decathlon" is the gold standard for physical longevity—identifying the physical tasks you want to do at 100 and reverse-engineering the training today.
 
-Recent research has highlighted the "Statistical Noise" in many consumer bio-age tests. An 18-year discrepancy can occur on the same day due to factors like jet lag, acute stress, or even the type of sample used (saliva vs. blood).
+But for the knowledge worker in 2026, we need a parallel framework: **The Centenarian Career.**
 
-For high-performers, the goal shouldn't be to chase a lower "score" on a noisy test. The goal is to optimize the biological systems that drive performance.
+If you plan to be active, consulting, or creating into your 80s and 90s, you can't rely on 20th-century career models. You need to treat your **Healthspan as Wealth**—your primary capital for a 60-year professional life.
 
-Instead of over-indexing on the indicator, we recommend focusing on three high-leverage interventions:
-1. **Mitochondrial Quality**: Moving beyond "energy quantity" to metabolic flexibility.
-2. **Brainspan Protection**: Prioritizing neuro-resilience over simple "longevity."
-3. **Stress Architecture**: Building systems that manage cortisol rather than just "reducing" it.
+Key insights from our latest deep dive into Attia’s "Medicine 3.0" for professionals:
 
-Don't let a noisy test distract you from the biological basics.
+1. **The Marginal Career Decade**: Just as Attia talks about the "Marginal Decade" of life, we must consider our "Marginal Career Decade." What skills are you "over-training" in your 40s to ensure you are indispensable at 80? Hint: It’s not technical tools; it’s **Cognitive Stability** and **Executive Power**.
 
-Full breakdown of the Biological Age Trap: [LINK TO BLOG POST]
+2. **Crystallized vs. Fluid Intelligence**: Biological aging shifts us from fluid intelligence (innovation/speed) to crystallized intelligence (wisdom/synthesis). A successful Centenarian Career involves a deliberate pivot into roles that leverage this biological shift as we age.
 
-#CorporateWellness #PerformanceOptimization #Biohacking #Leadership #Healthspan
+3. **The "Executive Engine"**: Attia’s focus on Zone 2 training isn't just for heart health. For the high-performer, it’s about mitochondrial efficiency in the prefrontal cortex—the biological basis for better decision-making under pressure.
+
+Don't just plan for retirement. Plan for a "Marginal Decade" of professional impact.
+
+Full breakdown of the Peter Attia Interview & The Centenarian Career: https://blog-the-long-run-production.up.railway.app/blog/interview-peter-attia-the-centenarian-career
+
+---
+**🔓 SHARE TO UNLOCK**: Get our free **2026 Longevity Starter Guide** (including the Mitochondrial Efficiency + Cognitive Resilience protocol) by sharing this post with your network.
+---
+
+#Longevity #FutureOfWork #ExecutivePerformance #PeterAttia #HealthspanAsWealth #TheLongRun
 
 ---
 
@@ -63,6 +74,10 @@ Key pillars for the high-performance professional:
 
 Stop trying to manage your calendar until you’ve optimized your cells.
 
-Discover the full protocol and the 2026 research behind it: [LINK TO BLOG POST]
+Discover the full protocol and the 2026 research behind it: https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity
+
+---
+**🔓 SHARE TO UNLOCK**: Ready to upgrade your cellular engine? Share this post to unlock the **2026 Longevity Starter Guide**.
+---
 
 #ExecutivePerformance #MitochondrialHealth #EnergyManagement #LongevityScience #PeakPerformance
