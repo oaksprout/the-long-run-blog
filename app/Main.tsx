@@ -14,7 +14,7 @@ export default function Home({ posts }) {
           <div className="mx-auto max-w-7xl">
             <div className="mx-auto max-w-2xl lg:mx-0">
               <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl dark:text-gray-100">
-                Intelligence <span className="text-primary-500">Feed</span>
+                The Long <span className="text-primary-500">Run</span>
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-400">
                 {siteMetadata.description}
