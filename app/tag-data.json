@@ -1,14 +1,14 @@
 {
   "longevity": 4,
-  "healthspan": 1,
-  "introduction": 1,
   "career": 1,
   "psychology": 1,
   "cognitive-resilience": 1,
   "100-year-life": 1,
+  "epigenetic-clocks": 1,
+  "myth-busting": 1,
+  "science": 2,
   "mitochondria": 1,
   "protocol": 1,
-  "science": 2,
-  "epigenetic-clocks": 1,
-  "myth-busting": 1
+  "healthspan": 1,
+  "introduction": 1
 }
