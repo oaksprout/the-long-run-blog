@@ -1,5 +1,5 @@
 {
-  "longevity": 4,
+  "longevity": 5,
   "career": 1,
   "psychology": 1,
   "cognitive-resilience": 1,
@@ -10,9 +10,11 @@
   "centenarian-decathlon": 1,
   "epigenetic-clocks": 1,
   "myth-busting": 1,
-  "science": 2,
+  "science": 3,
+  "brainspan": 1,
+  "glp-1": 1,
+  "protocol": 2,
   "mitochondria": 1,
-  "protocol": 1,
   "healthspan": 1,
   "introduction": 1
 }
