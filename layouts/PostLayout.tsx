@@ -9,6 +9,8 @@ import Image from '@/components/Image'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
+import LeadMagnetCTA from '@/components/LeadMagnetCTA'
+import ReadNext from '@/components/ReadNext'
 
 const editUrl = (path) => `${siteMetadata.siteRepo}/blob/main/data/${path}`
 const discussUrl = (path) =>
@@ -24,14 +26,22 @@ const postDateTemplate: Intl.DateTimeFormatOptions = {
 interface LayoutProps {
   content: CoreContent<Blog>
   authorDetails: CoreContent<Authors>[]
-  next?: { path: string; title: string }
-  prev?: { path: string; title: string }
+  next?: CoreContent<Blog>
+  prev?: CoreContent<Blog>
   children: ReactNode
 }
 
 export default function PostLayout({ content, authorDetails, next, prev, children }: LayoutProps) {
   const { filePath, path, slug, date, title, tags } = content
   const basePath = path.split('/')[0]
+
+  const readNextPosts = [prev, next]
+    .filter((post): post is CoreContent<Blog> => !!post)
+    .map((post) => ({
+      title: post.title,
+      href: `/${post.path}`,
+      summary: post.summary || '',
+    }))
 
   return (
     <SectionContainer>
@@ -95,6 +105,11 @@ export default function PostLayout({ content, authorDetails, next, prev, childre
             </dl>
             <div className="divide-y divide-gray-200 xl:col-span-3 xl:row-span-2 xl:pb-0 dark:divide-gray-700">
               <div className="prose dark:prose-invert max-w-none pt-10 pb-8">{children}</div>
+
+              <LeadMagnetCTA />
+
+              {readNextPosts.length > 0 && <ReadNext posts={readNextPosts} />}
+
               <div className="pt-6 pb-6 text-sm text-gray-700 dark:text-gray-300">
                 <Link href={discussUrl(path)} rel="nofollow">
                   Discuss on Twitter
