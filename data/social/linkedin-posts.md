@@ -81,3 +81,60 @@ Discover the full protocol and the 2026 research behind it: https://blog-the-lon
 ---
 
 #ExecutivePerformance #MitochondrialHealth #EnergyManagement #LongevityScience #PeakPerformance
+
+---
+
+## Post 4: The 18-Year Discrepancy: Why Your "Bio-Age" Test Might Be Lying to You
+**Target Date**: Week 3, Wednesday
+**Topic**: Investing in the Intervention vs. the Indicator (Biological Age Myth-Busting).
+
+We’ve all seen the ads: "Discover your true biological age with a simple spit test!" But as the direct-to-consumer market for epigenetic clocks explodes, leading biogerontologists are raising a red flag.
+
+The reality? For many of these tests, the "statistical noise" is currently louder than the biological signal.
+
+In a recent self-experiment, Dr. Matt Kaeberlein took 8 different consumer biological age tests on the same day. The results ranged from **43 to 61 years**. That is an 18-year spread for the exact same person on the exact same day.
+
+Why the noise?
+1. **The Tissue Trap**: Using a clock trained on blood to analyze saliva can swing results by 30 years.
+2. **The "Snapshot" Problem**: Inflammation, jet lag, and even time of day can shift results by 5+ years.
+3. **Generation Gaps**: Many tests use 1st-gen clocks (predicting chronological age) rather than gold-standard 2nd-gen clocks (predicting mortality risk).
+
+The "Smart Friend" advice: Invest in the **intervention** (Zone 2, strength training, metabolic health) rather than the **indicator** until the tech matures.
+
+Don't win a game of "who has the lowest number." Build a body that lasts.
+
+Full breakdown of the Kaeberlein experiment & the truth about bio-age: https://blog-the-long-run-production.up.railway.app/blog/the-biological-age-trap-why-your-consumer-test-might-be-lying-to-you
+
+---
+**🔓 SHARE TO UNLOCK**: Want to cut through the longevity hype? Share this post to unlock the **2026 Longevity Starter Guide**.
+---
+
+#Longevity #BioHacking #Science #BiologicalAge #HealthSpan #TheLongRun
+
+---
+
+## Post 5: Medicine 3.0 in the Boardroom: Training for a 60-Year Career
+**Target Date**: Week 4, Wednesday
+**Topic**: The Executive Protocol for Professional Longevity.
+
+If we are living to 100, we aren't just training for a physical "Centenarian Decathlon"—we are training for a **Centenarian Career.**
+
+In a deep dive into Dr. Peter Attia’s latest work, we explored how the principles of Medicine 3.0 translate into the boardroom. The mistake most high-performers make is treating their career as a finite sprint that ends at 65.
+
+To be indispensable at 85, you must "over-train" your **Cognitive Stability** and **Crystallized Intelligence** today.
+
+The 2026 Professional Longevity Protocol:
+- **Zone 2 for Brainspan**: Think of it as "flushing" your prefrontal cortex to maintain decision-making clarity.
+- **The "Marginal Decade" Skill Audit**: Reverse-engineering the 3 things you want to do professionally at 90.
+- **Strength as Neuroprotection**: Resistance training isn't just for bones; it's the metabolic foundation for your brain.
+- **Metabolic Flexibility**: Using stability training—physical and emotional—to absorb the "shocks" of a volatile career landscape.
+
+Don't just plan for retirement. Plan for professional impact that lasts a century.
+
+Full Interview Synthesis with Dr. Peter Attia: https://blog-the-long-run-production.up.railway.app/blog/interview-peter-attia-the-centenarian-career
+
+---
+**🔓 SHARE TO UNLOCK**: Build your professional decathlon. Share this post to unlock the **2026 Longevity Starter Guide**.
+---
+
+#FutureOfWork #ExecutivePerformance #Medicine30 #PeterAttia #CareerLongevity #TheLongRun
