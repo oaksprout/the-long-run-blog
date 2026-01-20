@@ -6,6 +6,8 @@ import Image from './Image'
 import CustomLink from './Link'
 import TableWrapper from './TableWrapper'
 import Callout from './Callout'
+import LeadMagnetCTA from './LeadMagnetCTA'
+import ReadNext from './ReadNext'
 
 export const components: MDXComponents = {
   Image,
@@ -15,4 +17,6 @@ export const components: MDXComponents = {
   table: TableWrapper,
   BlogNewsletterForm,
   Callout,
+  LeadMagnetCTA,
+  ReadNext,
 }
