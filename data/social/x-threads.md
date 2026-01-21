@@ -90,3 +90,55 @@ Fix: Magnesium intake + Stress management (Cortisol management) to protect your 
 8/ 🔓 **SHARE TO UNLOCK**: Ready for a biological engine upgrade? Retweet this thread to unlock the **2026 Longevity Starter Guide**.
 
 #Longevity #Mitochondria #Biohacking #TheLongRun
+
+---
+
+## Thread 4: The GLP-1 Brainspan Revolution
+1/ GLP-1s (Ozempic/Mounjaro) are no longer just "weight loss" drugs. In 2026, they are the biggest story in neuroprotection. We are talking about the **Brainspan Revolution**. 🧠 🧵
+
+2/ Your brain is an energy glutton (20% of total body glucose). When neurons become "insulin resistant" (Type 3 Diabetes), they starve. This metabolic starvation is a primary driver of cognitive decline.
+
+3/ GLP-1s act as a metabolic master-switch in the brain:
+✅ Fire Extinguisher: Lowers neuro-inflammation.
+✅ Engine Upgrade: Promotes mitophagy (neuron recycling).
+✅ Filter Repair: Strengthens the Blood-Brain Barrier.
+
+4/ The Buck Institute (2026) confirmed: These effects are DIRECT. Even if you don't lose weight, the neuroprotective benefits are real. This is foundational medicine for the aging brain.
+
+5/ But beware the "Muscle Tax." GLP-1s are catabolic. To protect your brain without losing your metabolic sink (muscle), you MUST:
+- Eat 1.6g-2.2g protein/kg.
+- Lift heavy 3-4x week.
+- Track Lean Mass Index (DEXA).
+
+6/ The goal isn't Ozempic face. It's maintaining the metabolic flexibility to process the world at 95. 
+
+7/ Full "Smart Friend" guide to the GLP-1 Brainspan Revolution here: https://blog-the-long-run-production.up.railway.app/blog/the-glp-1-brainspan-revolution-why-the-weight-loss-drug-is-2026s-biggest-neuroprotection-breakthrough
+
+8/ 🔓 **SHARE TO UNLOCK**: Get the updated **2026 Longevity Starter Guide** (with GLP-1 & Sarcopenia protocols). Retweet to unlock. 
+
+#Longevity #Brainspan #GLP1 #TheLongRun
+
+---
+
+## Thread 5: Rapamycin & Acarbose (The 37% Synergy)
+1/ Forget single longevity supplements. 2026 is about **Synergy**. The combo of Rapamycin + Acarbose just shattered NIA ITP records with a 37% lifespan extension. 🧪 🧵
+
+2/ Rapamycin is the "Gold Medalist" of mTOR inhibition (triggering cellular autophagy). But it has a flaw: it can occasionally raise fasting glucose. 
+
+3/ Enter Acarbose: The Glucose Gatekeeper. It blunts post-meal spikes by slowing carb breakdown in the gut. By pairing it with Rapa, you get the autophagy without the metabolic noise.
+
+4/ 1 + 1 = 3. High glucose spikes can re-activate mTOR even when taking inhibitors. Acarbose creates a "permissive environment" for Rapamycin to work more effectively. 
+
+5/ The ITP data: Even when started late-life (human age ~60), this combo still yielded a 13% increase in median lifespan. It is never too late to optimize.
+
+6/ The 2026 Synergy Protocol:
+1️⃣ Baseline HbA1c & Fasting Insulin.
+2️⃣ CGM to monitor post-meal spikes.
+3️⃣ Acarbose titration (25mg to start).
+4️⃣ Strategic Rapamycin dosing.
+
+7/ Read the full deep dive into the NIA ITP synergy breakthrough: https://blog-the-long-run-production.up.railway.app/blog/rapamycin-acarbose-synergy-the-37-percent-breakthrough
+
+8/ 🔓 **SHARE TO UNLOCK**: Ready to upgrade your cellular maintenance? Retweet this thread to unlock our free **2026 Longevity Starter Guide**.
+
+#Biohacking #Longevity #Rapamycin #TheLongRun
