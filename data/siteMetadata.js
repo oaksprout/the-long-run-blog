@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'The Long Run',
   author: 'The Long Run',
   headerTitle: 'The Long Run',
-  description: 'Translating cutting-edge longevity research into actionable insights for healthspan extension',
+  description: 'Translating biological acceleration windows and cutting-edge longevity research into actionable insights for healthspan extension',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://blog-the-long-run-production.up.railway.app',

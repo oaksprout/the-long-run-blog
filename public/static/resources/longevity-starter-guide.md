@@ -37,6 +37,21 @@ Welcome to **The Long Run**. This guide is designed to help you navigate the com
 
 ---
 
+## Bonus: The 44/60 Shift Checklist
+*Actionable protocols for the two primary "Acceleration Windows" of biological aging (Nature Aging, 2024).*
+
+### Age 44 Window (Lipids & Metabolism)
+- [ ] **Lipid Audit:** Request an ApoB test. This window sees a significant shift in lipid metabolism.
+- [ ] **Skin & Muscle Integrity:** Increase collagen-cofactor intake (Vitamin C + Proline) and focus on eccentric loading to counter structural shifts.
+- [ ] **Metabolic Precision:** Monitor alcohol and caffeine tolerance; molecules related to their metabolism often down-regulate during this window.
+
+### Age 60 Window (Immune & Carbohydrates)
+- [ ] **Carbohydrate Sensitivity:** Implement CGM (Continuous Glucose Monitor) tracking or quarterly A1c checks. This window marks a major shift in carbohydrate metabolism.
+- [ ] **Immune Regulation:** Focus on anti-inflammatory protocols (Omega-3s, specific polyphenols) to counter the "inflammaging" acceleration seen at 60.
+- [ ] **Kidney Function Baseline:** Ensure regular Cystatin C or GFR tracking, as renal markers often shift during this period.
+
+---
+
 ## Your Weekly Checklist
 - **Monday-Friday:** 30 min Zone 2 + 30 sec Cold Shower.
 - **Every Meal:** 2-3g Leucine.

@@ -46,20 +46,21 @@ const LeadMagnetCTA = () => {
   return (
     <div className="border-primary-200 bg-primary-50 dark:border-primary-800 dark:bg-primary-900/20 my-8 rounded-xl border p-6 shadow-sm">
       <div className="flex flex-col gap-8 lg:flex-row lg:items-center lg:justify-between">
-        <div className="flex-1">
+        <div class="flex-1">
           <h3 className="text-primary-600 dark:text-primary-400 mb-4 text-2xl font-bold">
             Download the 2026 Longevity Starter Guide
           </h3>
           <p className="mb-6 text-lg text-gray-600 dark:text-gray-300">
             Stop guessing and start living within the constraints of the best research. Our free
-            guide covers:
+            guide now includes the <strong>44/60 Shift Checklist</strong> for navigating the primary
+            biological acceleration windows.
           </p>
           <ul className="mb-6 grid gap-2 text-sm text-gray-600 sm:grid-cols-2 dark:text-gray-400">
             <li className="flex items-center gap-2">
               <span className="text-primary-500 font-bold">✓</span> Mitochondrial Efficiency
             </li>
             <li className="flex items-center gap-2">
-              <span className="text-primary-500 font-bold">✓</span> Cognitive Resilience
+              <span className="text-primary-500 font-bold">✓</span> 44/60 Acceleration Windows
             </li>
             <li className="flex items-center gap-2">
               <span className="text-primary-500 font-bold">✓</span> Smart Bio-Tracking
@@ -68,11 +69,6 @@ const LeadMagnetCTA = () => {
               <span className="text-primary-500 font-bold">✓</span> The Leucine Shield Protocol
             </li>
           </ul>
-          {!isUnlocked && (
-            <p className="text-sm font-medium text-gray-500 italic dark:text-gray-400">
-              🔓 Help us spread the mission to unlock your free download
-            </p>
-          )}
         </div>
         <div className="flex flex-shrink-0 flex-col items-center gap-4">
           {isUnlocked ? (
