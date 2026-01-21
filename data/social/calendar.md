@@ -19,3 +19,13 @@
 *   **Monday, Feb 9 (X)**: Launch Thread: "How Dr. Peter Attia is training for a 100-year life—and how you should too."
 *   **Wednesday, Feb 11 (LinkedIn)**: Post 4: Medicine 3.0 in the Boardroom: A Deep Dive into Professional Longevity.
 *   **Friday, Feb 13 (X/LinkedIn)**: **Visual Asset Launch**: The "Centenarian Career Checklist" infographic.
+
+## Week 5: The GLP-1 Brainspan Revolution
+*   **Monday, Feb 16 (X)**: Launch Thread: "The GLP-1 Brainspan Revolution: Why weight-loss drugs are the biggest neuroprotection story of 2026."
+*   **Wednesday, Feb 18 (LinkedIn)**: Post 5: Metabolic Health as Cognitive Insurance.
+*   **Friday, Feb 20 (X)**: Q&A: GLP-1s and the "Muscle Tax" (Safety focus).
+
+## Week 6: Cellular Synergy & NIA ITP Breakthroughs
+*   **Monday, Feb 23 (X)**: Launch Thread: "Rapamycin & Acarbose: The 37% Synergy that shattered NIA ITP records."
+*   **Wednesday, Feb 25 (LinkedIn)**: Post 6: From Single Supplements to Cellular Synergy: The Future of Optimization.
+*   **Friday, Feb 27 (X)**: Summary: The 2026 Longevity Protocol Wrap-up.
