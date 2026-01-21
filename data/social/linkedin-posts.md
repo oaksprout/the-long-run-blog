@@ -138,3 +138,48 @@ Full Interview Synthesis with Dr. Peter Attia: https://blog-the-long-run-product
 ---
 
 #FutureOfWork #ExecutivePerformance #Medicine30 #PeterAttia #CareerLongevity #TheLongRun
+
+---
+
+## Post 6: The GLP-1 Brainspan Revolution
+**Target Date**: Week 4, Friday
+**Topic**: Beyond Weight Loss: GLP-1s as Neuroprotection.
+
+If you think GLP-1s (like Ozempic and Mounjaro) are just about weight loss, you’re missing the biggest longevity story of 2026.
+
+We are entering the era of **Brainspan**. New research—including the latest Buck Institute synthesis—suggests that GLP-1s might be the most effective insurance policy for the human brain ever discovered.
+
+By acting as a metabolic master-switch in the prefrontal cortex and hippocampus, these compounds:
+1.  **Extinguish Neuro-inflammation**: Lowering the low-grade "fire" that leads to decline.
+2.  **Upgrade Mitochondria**: Promoting mitophagy (cellular recycling) in neurons.
+3.  **Repair the BBB**: Strengthening the Blood-Brain Barrier.
+
+But there is a "Muscle Tax." If you don't over-feed protein and lift heavy, you risk losing the very metabolic sink that keeps you resilient.
+
+The goal isn't just to be skinny. It's to ensure your brain still has the flexibility to process the world at 95.
+
+Deep dive into the Brainspan Revolution: https://blog-the-long-run-production.up.railway.app/blog/the-glp-1-brainspan-revolution-why-the-weight-loss-drug-is-2026s-biggest-neuroprotection-breakthrough
+
+#Longevity #BrainHealth #GLP1 #Neuroscience #Healthspan #TheLongRun
+
+---
+
+## Post 7: Rapamycin & Acarbose: The 37% Synergy Breakthrough
+**Target Date**: Week 5, Wednesday
+**Topic**: The New Gold Standard for Longevity Protocols.
+
+In the world of life extension, we’ve moved past single-molecule hype. 2026 is the year of **Synergy**.
+
+The combination of **Rapamycin** (the mTOR inhibitor) and **Acarbose** (the glucose gatekeeper) is currently the heavyweight champion of healthspan. Recent NIA ITP data shows lifespan extensions of nearly **37%**—a record-breaking result in mammalian biology.
+
+Why does it work?
+- **Rapamycin** triggers deep cellular repair (autophagy).
+- **Acarbose** blunts the glucose spikes that can interfere with mTOR inhibition.
+
+By pairing them, you get the benefits of cellular cleaning without the metabolic fluctuations. Even when started at the human equivalent of age 60, this duo still adds significant healthy years.
+
+Is your protocol optimized for synergy?
+
+Full breakdown of the NIA ITP breakthrough: https://blog-the-long-run-production.up.railway.app/blog/rapamycin-acarbose-synergy-the-37-percent-breakthrough
+
+#LongevityScience #Rapamycin #Acarbose #Biohacking #AntiAging #TheLongRun

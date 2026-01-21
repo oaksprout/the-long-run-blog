@@ -129,3 +129,54 @@ Most people focus on Dr. Peter Attia's advice for VO2 max and deadlifts. But as 
 3. **Strength as Neuroprotection:** Resistance training is for metabolic brain health, not just bones.
 
 **Full deep dive on the Attia interview synthesis:** [https://blog-the-long-run-production.up.railway.app/blog/interview-peter-attia-the-centenarian-career](https://blog-the-long-run-production.up.railway.app/blog/interview-peter-attia-the-centenarian-career)
+
+---
+
+## Post 4: r/Biohackers - GLP-1s are now "Brainspan" drugs (Buck Institute 2026 data)
+
+**Title**: GLP-1s are now "Brainspan" drugs: Why the weight loss is the least interesting part of the 2026 data
+
+**Post Content**:
+
+Most of the world is still talking about Ozempic for weight loss. But in the longevity research community, 2026 is the year of **GLP-1 as Neuroprotection**.
+
+New synthesis from the Buck Institute confirms that these compounds act as a metabolic master-switch in the prefrontal cortex and hippocampus. If you're planning for a 100-year life, this is the ultimate "insurance policy" for your brain.
+
+### The Mechanism:
+1.  **Neuro-inflammation**: It’s like a fire extinguisher for "Type 3 Diabetes" (brain insulin resistance).
+2.  **Mitophagy**: It forces neurons to recycle damaged mitochondria.
+3.  **BBB Integrity**: It strengthens the Blood-Brain Barrier.
+
+### The "Smart Friend" Warning:
+If you use a GLP-1 without an aggressive **Resistance Training + Protein Over-feeding** protocol, you are sabotaging your long-term resilience. Sarcopenia is the real enemy here.
+
+**The 2026 Gold Standard Protocol:**
+- 1.6g-2.2g protein/kg
+- 3-4x weekly heavy lifting
+- Monitoring Lean Mass Index (not just the scale)
+
+Full breakdown of the SELECT trial cognitive synthesis: [https://blog-the-long-run-production.up.railway.app/blog/the-glp-1-brainspan-revolution-why-the-weight-loss-drug-is-2026s-biggest-neuroprotection-breakthrough](https://blog-the-long-run-production.up.railway.app/blog/the-glp-1-brainspan-revolution-why-the-weight-loss-drug-is-2026s-biggest-neuroprotection-breakthrough)
+
+---
+
+## Post 5: r/Longevity - Rapamycin + Acarbose: 37% Synergy (NIA ITP 2026 Update)
+
+**Title**: 37% Lifespan Extension: Why the Rapa + Acarbose synergy is the new gold standard
+
+**Post Content**:
+
+The National Institute on Aging's Interventions Testing Program (ITP) just released its 20-year synthesis, and the results for the **Rapamycin + Acarbose** combo are the highest ever recorded for a mammalian intervention.
+
+We're seeing a **37% median lifespan increase** in males and ~28% in females. 
+
+**Why the Synergy?**
+Rapamycin is a powerful mTOR inhibitor (triggering autophagy), but it can sometimes cause glucose fluctuations. Acarbose acts as a "buffer" by blunting post-meal spikes.
+
+Recent 2025 research suggests that high glucose spikes can re-activate mTOR even in the presence of inhibitors. By keeping glucose stable, Acarbose creates a "permissive environment" for Rapamycin to do its job more consistently.
+
+**Key 2026 Protocol Insights:**
+- Even starting at the equivalent of human age 60 yielded a **13% increase**.
+- Acarbose titration is key for gut microbiome adaptation.
+- CGM monitoring is essential to verify the "buffer" effect.
+
+Deep dive into the NIA ITP records and the synergy mechanism: [https://blog-the-long-run-production.up.railway.app/blog/rapamycin-acarbose-synergy-the-37-percent-breakthrough](https://blog-the-long-run-production.up.railway.app/blog/rapamycin-acarbose-synergy-the-37-percent-breakthrough)
