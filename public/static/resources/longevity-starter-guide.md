@@ -38,21 +38,23 @@ Welcome to **The Long Run**. This guide is designed to help you navigate the com
 ---
 
 ## Bonus: The 44/60 Shift Checklist
-*The definitive checklist for navigating the two primary "Acceleration Windows" of biological aging (Nature Aging, 2024).*
+*The definitive tactical protocol for navigating the two primary "Acceleration Windows" of biological aging (Nature Aging, 2024).*
 
 ### [ ] Phase 1: The Age 44 Window (Metabolic & Lipid Pivot)
-- [ ] **ApoB Lipid Audit:** Request an ApoB test to assess true cardiovascular risk as lipid metabolism shifts.
-- [ ] **Structural Integrity Support:** 1000mg Vitamin C + 5g Proline/Glycine daily to counter connective tissue shifts.
-- [ ] **Eccentric Loading Focus:** Add 2 sessions per week focusing on slow eccentric (lowering) movements to stimulate collagen.
-- [ ] **Metabolic Precision:** Reduce alcohol/caffeine intake by 30% if HRV recovery metrics begin to trend downward.
-- [ ] **Skin Barrier Optimization:** Increase topical hydration and ceramide-based moisturizers to combat the skin structural shift.
+- [ ] **ApoB Lipid Audit:** Request an ApoB test. Standard LDL tests miss the shift in atherogenic particles that occurs during this window.
+- [ ] **Structural Integrity Support:** 1000mg Vitamin C + 5g Proline/Glycine daily. This window sees a sharp down-regulation of collagen-related molecules.
+- [ ] **Eccentric Loading Focus:** Add 2 sessions per week focusing on slow eccentric (lowering) movements to stimulate connective tissue adaptation.
+- [ ] **Metabolic Precision:** Reduce alcohol/caffeine intake by 30%. The enzymes processing these substances often shift in efficiency at this pivot.
+- [ ] **Skin Barrier Optimization:** Shift to ceramide-rich topical protocols to combat the structural decline in skin molecular profiles.
+- [ ] **Bio-Age Baseline:** Use a 2nd-generation clock (GrimAge) to establish your baseline *before* the window fully closes.
 
 ### [ ] Phase 2: The Age 60 Window (Immune & Carbohydrate Pivot)
-- [ ] **The Glucose Guard:** Use a 14-day CGM to identify "spike" foods that may now trigger higher inflammatory responses.
-- [ ] **Immune Modulation Pulse:** Implement high-dose Omega-3s (2g+ EPA/DHA) and Quercetin (500mg) daily.
-- [ ] **Renal Baseline Audit:** Request a Cystatin C test for accurate kidney function tracking.
-- [ ] **Anabolic Resistance Counter:** Ensure 40g+ high-leucine protein in the first meal of the day.
-- [ ] **Inflammaging Assessment:** Track hs-CRP levels quarterly to monitor systemic inflammation spikes.
+- [ ] **The Glucose Guard:** Use a 14-day CGM to identify new "spike" foods. Carbohydrate metabolism undergoes a major restructuring at age 60.
+- [ ] **Immune Modulation Pulse:** Implement high-dose Omega-3s (2g+ EPA/DHA) and Quercetin (500mg) daily to manage "inflammaging" spikes.
+- [ ] **Renal Precision Audit:** Request a Cystatin C test. Standard creatinine can mask kidney efficiency shifts during this window.
+- [ ] **Anabolic Resistance Counter:** Ensure 40g+ high-leucine protein in the first meal of the day to trigger muscle protein synthesis.
+- [ ] **Inflammaging Assessment:** Track hs-CRP levels quarterly. A rising baseline indicates the "Immune Pivot" is accelerating.
+- [ ] **Senolytic Consideration:** Consult with a provider about a Quercetin/Dasatinib or Fisetin pulse to clear the increased senescent cell load.
 
 ---
 

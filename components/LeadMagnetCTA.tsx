@@ -47,26 +47,32 @@ const LeadMagnetCTA = () => {
     <div className="border-primary-200 bg-primary-50 dark:border-primary-800 dark:bg-primary-900/20 my-8 rounded-xl border p-6 shadow-sm">
       <div className="flex flex-col gap-8 lg:flex-row lg:items-center lg:justify-between">
         <div className="flex-1">
+          <div className="mb-2 inline-block rounded-full bg-blue-100 px-3 py-1 text-xs font-bold tracking-wider text-blue-800 uppercase dark:bg-blue-900/40 dark:text-blue-300">
+            Research-Backed Protocol
+          </div>
           <h3 className="text-primary-600 dark:text-primary-400 mb-4 text-2xl font-bold">
-            Navigate the 44/60 Acceleration Windows
+            Master the 44/60 Acceleration Windows
           </h3>
           <p className="mb-6 text-lg text-gray-600 dark:text-gray-300">
-            Biological aging doesn't happen linearly. New research identifies two massive
-            acceleration windows at ages 44 and 60. Get the <strong>44/60 Shift Checklist</strong> —
-            the definitive tactical protocol for mastering these critical biological pivots.
+            Biological aging isn't linear. New research confirms massive molecular surges at ages 44
+            and 60. Get our <strong>Longevity Starter Guide</strong> — now featuring the{' '}
+            <span className="text-primary-600 dark:text-primary-400 font-bold">
+              44/60 Shift Checklist bonus
+            </span>{' '}
+            to help you navigate these critical biological pivots.
           </p>
           <ul className="mb-6 grid gap-2 text-sm text-gray-600 sm:grid-cols-2 dark:text-gray-400">
             <li className="flex items-center gap-2">
-              <span className="text-primary-500 font-bold">✓</span> 44/60 Shift Protocol (Updated)
+              <span className="text-primary-500 font-bold">✓</span> 44/60 Shift Tactical Checklist
             </li>
             <li className="flex items-center gap-2">
-              <span className="text-primary-500 font-bold">✓</span> Metabolic & Lipid Audits
+              <span className="text-primary-500 font-bold">✓</span> ApoB & Lipid Audit Protocol
             </li>
             <li className="flex items-center gap-2">
-              <span className="text-primary-500 font-bold">✓</span> The Leucine Shield Protocol
+              <span className="text-primary-500 font-bold">✓</span> The Leucine Shield Strategy
             </li>
             <li className="flex items-center gap-2">
-              <span className="text-primary-500 font-bold">✓</span> Immune Modulation Strategy
+              <span className="text-primary-500 font-bold">✓</span> Immune & Glucose Guard Pulse
             </li>
           </ul>
         </div>
