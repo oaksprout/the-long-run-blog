@@ -102,6 +102,15 @@ export function Medium(svgProps: SVGProps<SVGSVGElement>) {
     </svg>
   )
 }
+
+export function Telegram(svgProps: SVGProps<SVGSVGElement>) {
+  return (
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" {...svgProps}>
+      <title>Telegram</title>
+      <path d="M11.944 0C5.346 0 0 5.346 0 12s5.346 12 12 12 12-5.346 12-12S18.544 0 11.944 0zM18.15 7.64l-2.07 9.77c-.15.68-.56.84-1.13.52l-3.15-2.32-1.52 1.46c-.17.17-.31.31-.64.31l.23-3.23 5.88-5.31c.25-.23-.05-.35-.39-.13L8.06 12.6l-3.13-.98c-.68-.21-.69-.68.14-1l12.23-4.71c.56-.21 1.06.13.85.73z" />
+    </svg>
+  )
+}
 export function Bluesky(svgProps: SVGProps<SVGSVGElement>) {
   return (
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" {...svgProps}>
