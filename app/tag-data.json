@@ -1,15 +1,15 @@
 {
-  "longevity": 7,
+  "longevity": 8,
   "career": 1,
   "psychology": 1,
   "cognitive-resilience": 1,
   "100-year-life": 2,
   "peter-attia": 1,
   "interviews": 1,
-  "medicine-3-0": 3,
+  "medicine-3-0": 4,
   "centenarian-decathlon": 1,
-  "protocol": 4,
-  "science": 5,
+  "protocol": 5,
+  "science": 6,
   "rapamycin": 1,
   "acarbose": 1,
   "nia-itp": 1,
@@ -18,6 +18,6 @@
   "brainspan": 1,
   "glp-1": 1,
   "mitochondria": 1,
-  "healthspan": 2,
+  "healthspan": 3,
   "introduction": 1
 }
