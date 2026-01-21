@@ -14,6 +14,7 @@ const siteMetadata = {
   github: '',
   x: '',
   linkedin: '',
+  telegram: 'https://t.me/TheLongRunBrief',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
