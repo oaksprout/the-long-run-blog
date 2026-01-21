@@ -48,25 +48,25 @@ const LeadMagnetCTA = () => {
       <div className="flex flex-col gap-8 lg:flex-row lg:items-center lg:justify-between">
         <div className="flex-1">
           <h3 className="text-primary-600 dark:text-primary-400 mb-4 text-2xl font-bold">
-            Master the 44/60 Acceleration Windows
+            Navigate the 44/60 Acceleration Windows
           </h3>
           <p className="mb-6 text-lg text-gray-600 dark:text-gray-300">
-            Stop guessing and start living within the constraints of the best research. Our upgraded
-            guide includes the <strong>44/60 Shift Checklist</strong> — the definitive protocol for
-            navigating biological age pivots identified by the latest longevity science.
+            Biological aging doesn't happen linearly. New research identifies two massive
+            acceleration windows at ages 44 and 60. Get the <strong>44/60 Shift Checklist</strong> —
+            the definitive tactical protocol for mastering these critical biological pivots.
           </p>
           <ul className="mb-6 grid gap-2 text-sm text-gray-600 sm:grid-cols-2 dark:text-gray-400">
             <li className="flex items-center gap-2">
-              <span className="text-primary-500 font-bold">✓</span> 44/60 Acceleration Protocol
+              <span className="text-primary-500 font-bold">✓</span> 44/60 Shift Protocol (Updated)
             </li>
             <li className="flex items-center gap-2">
-              <span className="text-primary-500 font-bold">✓</span> Mitochondrial Efficiency
+              <span className="text-primary-500 font-bold">✓</span> Metabolic & Lipid Audits
             </li>
             <li className="flex items-center gap-2">
               <span className="text-primary-500 font-bold">✓</span> The Leucine Shield Protocol
             </li>
             <li className="flex items-center gap-2">
-              <span className="text-primary-500 font-bold">✓</span> Smart Bio-Tracking
+              <span className="text-primary-500 font-bold">✓</span> Immune Modulation Strategy
             </li>
           </ul>
         </div>
