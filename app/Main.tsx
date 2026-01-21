@@ -26,8 +26,9 @@ export default function Home({ posts }) {
               </h1>
               <p className="mt-8 text-xl leading-9 text-gray-600 dark:text-gray-300">
                 Our mission is to increase the number of people living within the constraints of the
-                best longevity research. We translate biological acceleration windows and
-                cutting-edge science into actionable insights for your healthspan.
+                best longevity research. We focus on the <strong>44/60 Acceleration Windows</strong>{' '}
+                — the critical pivots in biological aging — and translate cutting-edge science into
+                actionable protocols for your healthspan.
               </p>
               <div className="mt-10 flex flex-col items-start gap-4 sm:flex-row sm:items-center sm:gap-x-6">
                 <Link
