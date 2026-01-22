@@ -322,3 +322,27 @@ Aging doesn't happen at a steady 1% per year. It happens in **Bursts**.
 Drop your age and current protocol below, and let's map out the pivot.
 
 **Read the full Intelligence Brief on the 44/60 Shift:** [https://blog-the-long-run-production.up.railway.app/blog/the-acceleration-windows-44-60-shifts](https://blog-the-long-run-production.up.railway.app/blog/the-acceleration-windows-44-60-shifts)
+
+---
+
+## Post 13: r/Biohackers - Your mouth is "leaking" inflammation into your brain: The 2026 Oral-Systemic Axis
+
+**Title**: Your mouth is "leaking" inflammation into your brain: Why "leaky gums" are the new "leaky gut"
+
+**Post Content**:
+
+We obsess over "leaky gut," but in 2026, the longevity community is finally waking up to the **Oral-Systemic Axis**. New data shows that "leaky gums" might be the primary driver of systemic inflammaging.
+
+**The Keystone Pathogen: *P. gingivalis***
+This bacteria doesn't just stay in your mouth. It enters the bloodstream and secretes toxic proteases (gingipains) that can cross the Blood-Brain Barrier. It's been found in the brains of Alzheimer's patients years before diagnosis.
+
+**The "Nitric Oxide Trap" (Stop using Mouthwash)**
+If you are using alcohol-based antiseptic mouthwash, you are killing the nitrate-reducing bacteria on your tongue. This halts your body's production of Nitric Oxide (NO), which keeps your blood pressure low. You are literally washing away your cardiovascular protection.
+
+**The 2026 Protocol:**
+1.  **Mechanical Reset:** Deep cleaning (scaling) to remove the biofilm.
+2.  **Oral Probiotics:** Seeding with *S. salivarius K12* to outcompete pathogens.
+3.  **NO Preservation:** Switch to alkaline or essential-oil rinses; ditch the alcohol.
+4.  **Tongue Scraping:** Remove the bacterial reservoir every morning.
+
+**Full Deep Dive on the Oral Microbiome:** [https://blog-the-long-run-production.up.railway.app/blog/the-oral-microbiome-your-bodys-silent-leak-and-the-new-frontier-of-inflammaging](https://blog-the-long-run-production.up.railway.app/blog/the-oral-microbiome-your-bodys-silent-leak-and-the-new-frontier-of-inflammaging)
