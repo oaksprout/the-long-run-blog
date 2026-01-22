@@ -14,6 +14,7 @@ const siteMetadata = {
   github: '',
   x: '',
   linkedin: '',
+  telegram: 'https://t.me/TheLongRunBrief',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
@@ -23,14 +24,15 @@ const siteMetadata = {
       umamiWebsiteId:
         process.env.NEXT_UMAMI_ID ||
         process.env.NEXT_PUBLIC_UMAMI_ID ||
-        process.env.UMAMI_WEBSITE_ID,
+        process.env.UMAMI_WEBSITE_ID ||
+        '00ba0400-cc63-4405-965f-650ca8e6c30e',
       // Custom Umami host (Railway deployed)
       src:
         process.env.NEXT_UMAMI_SRC ||
         process.env.NEXT_PUBLIC_UMAMI_SRC ||
         (process.env.UMAMI_HOST
           ? `${process.env.UMAMI_HOST}/script.js`
-          : 'https://us.umami.is/script.js'),
+          : 'https://umami-production-ae2b.up.railway.app/script.js'),
     },
   },
   newsletter: {
