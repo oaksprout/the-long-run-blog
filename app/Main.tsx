@@ -25,20 +25,23 @@ export default function Home({ posts }) {
                 The Long <span className="text-primary-500">Run</span>
               </h1>
               <p className="mt-8 text-xl leading-9 text-gray-600 dark:text-gray-300">
-                {siteMetadata.description}
+                Our mission is to increase the number of people living within the constraints of the
+                best longevity research. We focus on the <strong>44/60 Acceleration Windows</strong>{' '}
+                — the critical pivots in biological aging — and translate cutting-edge science into
+                actionable protocols for your healthspan.
               </p>
-              <div className="mt-10 flex items-center gap-x-6">
+              <div className="mt-10 flex flex-col items-start gap-4 sm:flex-row sm:items-center sm:gap-x-6">
                 <Link
                   href="/blog"
-                  className="bg-primary-500 hover:bg-primary-400 focus-visible:outline-primary-500 rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2"
+                  className="bg-primary-500 hover:bg-primary-400 focus-visible:outline-primary-500 w-full rounded-md px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 sm:w-auto"
                 >
                   Explore Research
                 </Link>
                 <Link
                   href="/about"
-                  className="text-sm leading-6 font-semibold text-gray-900 dark:text-gray-100"
+                  className="w-full text-center text-sm leading-6 font-semibold text-gray-900 sm:w-auto sm:text-left dark:text-gray-100"
                 >
-                  Our Mission <span aria-hidden="true">→</span>
+                  Learn About Our Mission <span aria-hidden="true">→</span>
                 </Link>
               </div>
             </div>
