@@ -1,5 +1,5 @@
 {
-  "longevity": 14,
+  "longevity": 15,
   "career": 2,
   "psychology": 1,
   "cognitive-resilience": 2,
@@ -14,7 +14,7 @@
   "centenarian-decathlon": 1,
   "brainspan": 2,
   "circadian-rhythm": 1,
-  "senolytics": 1,
+  "senolytics": 2,
   "ultrasound": 1,
   "myth-busting": 2,
   "technology": 1,
@@ -32,9 +32,11 @@
   "sarcopenia": 1,
   "oxytocin": 1,
   "alk5": 1,
-  "research-deep-dive": 1,
+  "research-deep-dive": 2,
   "introduction": 1,
   "organ-specific-aging": 1,
   "nature-medicine": 1,
-  "proteomics": 1
+  "proteomics": 1,
+  "senotoxins": 1,
+  "precision-medicine": 1
 }
