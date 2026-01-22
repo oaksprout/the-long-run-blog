@@ -25,20 +25,23 @@ export default function Home({ posts }) {
                 The Long <span className="text-primary-500">Run</span>
               </h1>
               <p className="mt-8 text-xl leading-9 text-gray-600 dark:text-gray-300">
-                {siteMetadata.description}
+                Our mission is to increase the number of people living within the constraints of the
+                best longevity research. We focus on the <strong>44/60 Acceleration Windows</strong>{' '}
+                — the critical pivots in biological aging — and translate cutting-edge science into
+                actionable protocols for your healthspan.
               </p>
-              <div className="mt-10 flex items-center gap-x-6">
+              <div className="mt-10 flex flex-col items-start gap-4 sm:flex-row sm:items-center sm:gap-x-6">
                 <Link
                   href="/blog"
-                  className="bg-primary-500 hover:bg-primary-400 focus-visible:outline-primary-500 rounded-md px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2"
+                  className="bg-primary-500 hover:bg-primary-400 focus-visible:outline-primary-500 w-full rounded-md px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 sm:w-auto"
                 >
                   Explore Research
                 </Link>
                 <Link
                   href="/about"
-                  className="text-sm leading-6 font-semibold text-gray-900 dark:text-gray-100"
+                  className="w-full text-center text-sm leading-6 font-semibold text-gray-900 sm:w-auto sm:text-left dark:text-gray-100"
                 >
-                  Our Mission <span aria-hidden="true">→</span>
+                  Learn About Our Mission <span aria-hidden="true">→</span>
                 </Link>
               </div>
             </div>
@@ -55,6 +58,98 @@ export default function Home({ posts }) {
                 'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)',
             }}
           />
+        </div>
+      </div>
+
+      <div className="py-12 sm:py-16">
+        <div className="mx-auto max-w-7xl px-6 lg:px-8">
+          <div className="mx-auto max-w-2xl lg:text-center">
+            <h2 className="text-primary-500 text-base leading-7 font-semibold">Beyond the Hype</h2>
+            <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl dark:text-gray-100">
+              Scientific rigor for the 100-year life.
+            </p>
+          </div>
+          <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
+            <dl className="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-3">
+              {[
+                {
+                  name: 'Evidence-Based Translation',
+                  description:
+                    'We dive deep into peer-reviewed longevity research, distilling complex biology into actionable insights.',
+                  icon: (
+                    <svg
+                      className="h-6 w-6 text-white"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      strokeWidth="1.5"
+                      stroke="currentColor"
+                      aria-hidden="true"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25"
+                      />
+                    </svg>
+                  ),
+                },
+                {
+                  name: 'Practical Protocols',
+                  description:
+                    'Nutrition, exercise, and pharmacological strategies optimized for healthspan extension and cognitive resilience.',
+                  icon: (
+                    <svg
+                      className="h-6 w-6 text-white"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      strokeWidth="1.5"
+                      stroke="currentColor"
+                      aria-hidden="true"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                      />
+                    </svg>
+                  ),
+                },
+                {
+                  name: 'Future-Proof Intelligence',
+                  description:
+                    'Staying ahead of the curve with insights on the latest longevity therapeutics and bio-tracking technologies.',
+                  icon: (
+                    <svg
+                      className="h-6 w-6 text-white"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      strokeWidth="1.5"
+                      stroke="currentColor"
+                      aria-hidden="true"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M3.75 13.5l10.5-11.25L12 10.5h8.25L9.75 21.75 12 13.5H3.75z"
+                      />
+                    </svg>
+                  ),
+                },
+              ].map((feature) => (
+                <div key={feature.name} className="flex flex-col">
+                  <dt className="flex items-center gap-x-3 text-base leading-7 font-semibold text-gray-900 dark:text-gray-100">
+                    <div className="bg-primary-500 flex h-10 w-10 items-center justify-center rounded-lg">
+                      {feature.icon}
+                    </div>
+                    {feature.name}
+                  </dt>
+                  <dd className="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600 dark:text-gray-300">
+                    <p className="flex-auto">{feature.description}</p>
+                  </dd>
+                </div>
+              ))}
+            </dl>
+          </div>
         </div>
       </div>
 

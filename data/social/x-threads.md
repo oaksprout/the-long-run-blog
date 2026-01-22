@@ -93,7 +93,59 @@ Fix: Magnesium intake + Stress management (Cortisol management) to protect your 
 
 ---
 
-## Thread 8: Sarcopenia (The Brain Crisis)
+## Thread 4: The GLP-1 Brainspan Revolution
+1/ GLP-1s (Ozempic/Mounjaro) are no longer just "weight loss" drugs. In 2026, they are the biggest story in neuroprotection. We are talking about the **Brainspan Revolution**. 🧠 🧵
+
+2/ Your brain is an energy glutton (20% of total body glucose). When neurons become "insulin resistant" (Type 3 Diabetes), they starve. This metabolic starvation is a primary driver of cognitive decline.
+
+3/ GLP-1s act as a metabolic master-switch in the brain:
+✅ Fire Extinguisher: Lowers neuro-inflammation.
+✅ Engine Upgrade: Promotes mitophagy (neuron recycling).
+✅ Filter Repair: Strengthens the Blood-Brain Barrier.
+
+4/ The Buck Institute (2026) confirmed: These effects are DIRECT. Even if you don't lose weight, the neuroprotective benefits are real. This is foundational medicine for the aging brain.
+
+5/ But beware the "Muscle Tax." GLP-1s are catabolic. To protect your brain without losing your metabolic sink (muscle), you MUST:
+- Eat 1.6g-2.2g protein/kg.
+- Lift heavy 3-4x week.
+- Track Lean Mass Index (DEXA).
+
+6/ The goal isn't Ozempic face. It's maintaining the metabolic flexibility to process the world at 95. 
+
+7/ Full "Smart Friend" guide to the GLP-1 Brainspan Revolution here: https://blog-the-long-run-production.up.railway.app/blog/the-glp-1-brainspan-revolution-why-the-weight-loss-drug-is-2026s-biggest-neuroprotection-breakthrough
+
+8/ 🔓 **SHARE TO UNLOCK**: Get the updated **2026 Longevity Starter Guide** (with GLP-1 & Sarcopenia protocols). Retweet to unlock. 
+
+#Longevity #Brainspan #GLP1 #TheLongRun
+
+---
+
+## Thread 5: Rapamycin & Acarbose (The 37% Synergy)
+1/ Forget single longevity supplements. 2026 is about **Synergy**. The combo of Rapamycin + Acarbose just shattered NIA ITP records with a 37% lifespan extension. 🧪 🧵
+
+2/ Rapamycin is the "Gold Medalist" of mTOR inhibition (triggering cellular autophagy). But it has a flaw: it can occasionally raise fasting glucose. 
+
+3/ Enter Acarbose: The Glucose Gatekeeper. It blunts post-meal spikes by slowing carb breakdown in the gut. By pairing it with Rapa, you get the autophagy without the metabolic noise.
+
+4/ 1 + 1 = 3. High glucose spikes can re-activate mTOR even when taking inhibitors. Acarbose creates a "permissive environment" for Rapamycin to work more effectively. 
+
+5/ The ITP data: Even when started late-life (human age ~60), this combo still yielded a 13% increase in median lifespan. It is never too late to optimize.
+
+6/ The 2026 Synergy Protocol:
+1️⃣ Baseline HbA1c & Fasting Insulin.
+2️⃣ CGM to monitor post-meal spikes.
+3️⃣ Acarbose titration (25mg to start).
+4️⃣ Strategic Rapamycin dosing.
+
+7/ Read the full deep dive into the NIA ITP synergy breakthrough: https://blog-the-long-run-production.up.railway.app/blog/rapamycin-acarbose-synergy-the-37-percent-breakthrough
+
+8/ 🔓 **SHARE TO UNLOCK**: Ready to upgrade your cellular maintenance? Retweet this thread to unlock our free **2026 Longevity Starter Guide**.
+
+#Biohacking #Longevity #Rapamycin #TheLongRun
+
+---
+
+## Thread 6: Sarcopenia (The Brain Crisis)
 1/ For decades, we’ve treated Sarcopenia (muscle loss) as a physical frailty issue. But in 2026, the data is clear: Muscle is a metabolic sink for the brain. Lose lean mass, and your cognitive reserve collapses. 🧵
 
 2/ The breakthrough isn't just "more protein." It's **Mitochondrial Supercomplex Efficiency**. New 2026 research identifies the **COX7RP** protein as the key to clustering enzymes. These "supercomplexes" burn fuel cleaner and produce less oxidative "smoke."
@@ -119,7 +171,7 @@ Fix: Magnesium intake + Stress management (Cortisol management) to protect your 
 
 ---
 
-## Thread 9: Sleep (The Organ De-Ager)
+## Thread 7: Sleep (The Organ De-Ager)
 1/ Your brain might be 10 years older than your body—and your sleep schedule is likely why. 🧠 New 2026 research into **Organ-Specific Biological Clocks** shows that our organs don't age at the same rate. 🧵
 
 2/ The Data: A "youthful" brain clock correlates with a 4x lower risk of Alzheimer's. Conversely, disrupted circadian rhythms linked to a 45% higher risk of dementia. It’s not just about "8 hours"—it's about **Circadian Alignment**.
@@ -142,7 +194,7 @@ Fix: Magnesium intake + Stress management (Cortisol management) to protect your 
 
 ---
 
-## Thread 10: Senolytics (The Ultrasound Revolution)
+## Thread 8: Senolytics (The Ultrasound Revolution)
 1/ Rejuvenating cells with... ultrasound? 🔊 The biggest hurdle for senolytics (clearing "zombie cells") has been the side effects of drugs. But a landmark breakthrough is changing the game: **Low-Frequency Ultrasound (LFU)**. 🧵
 
 2/ What is LFU? It doesn't just kill senescent cells—it **rejuvenates** them. It reverses 15 markers of senescence, inhibits pro-aging pathways (mTOR), and kicks cellular cleanup (autophagy) into high gear.
@@ -163,7 +215,7 @@ Fix: Magnesium intake + Stress management (Cortisol management) to protect your 
 
 ---
 
-## Thread 11: Longevity Finance (Your New 401k)
+## Thread 9: Longevity Finance (Your New 401k)
 1/ Why your financial advisor isn't ready for your 100-year healthspan. 💰 If you're planning for a 20-year retirement at 65, you're prepared for a world that no longer exists. Finance is now a **Biological Problem**. 🧵
 
 2/ The Crisis: If you live to 100 with high cognitive function, you have a **35-year "Third Act"**. Most models assume a "Glide Path" to decline. But if you’re biologically 60 at 80, your 401k is woefully underfunded.
@@ -185,7 +237,7 @@ The best hedge against inflation is your ability to earn at 85. Higher occupatio
 
 ---
 
-## Thread 12: Intelligence Brief (The 44/60 Acceleration Windows)
+## Thread 10: Intelligence Brief (The 44/60 Acceleration Windows)
 1/ Aging isn't linear. You don't just age 1% every year. Instead, you hit a "Biological Wall" at two distinct **Acceleration Windows**: Age 44 and Age 60. 🧱 🧵
 
 2/ The 44-Year Shift: Massive shifts in lipid metabolism (ApoB), skin/muscle integrity, and caffeine tolerance. If you're in your early 40s, you *must* pivot toward aggressive lipid management and protecting lean mass.

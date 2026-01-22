@@ -1,4 +1,11 @@
-# The Long Run - Intelligence Brief: Drafts
+# The Long Run - Intelligence Brief: Telegram Content Strategy
+
+## Channel Identity
+**Name**: The Long Run - Intelligence Brief
+**Handle**: @TheLongRunBrief (Suggested)
+**Bio**: Signal in the noise. Translating 2026 longevity research into career performance and healthspan. 3x/week briefings.
+
+## Posting Cadence: Monday / Wednesday / Friday (09:00 EST)
 
 ---
 
