@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'The Long Run',
   author: 'The Long Run',
   headerTitle: 'The Long Run',
-  description: 'Translating cutting-edge longevity research into actionable insights for healthspan extension',
+  description: 'Mastering biological acceleration windows and the 44/60 Shift Protocol through actionable longevity research and healthspan optimization.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://blog-the-long-run-production.up.railway.app',
@@ -24,14 +24,15 @@ const siteMetadata = {
       umamiWebsiteId:
         process.env.NEXT_UMAMI_ID ||
         process.env.NEXT_PUBLIC_UMAMI_ID ||
-        process.env.UMAMI_WEBSITE_ID,
+        process.env.UMAMI_WEBSITE_ID ||
+        '00ba0400-cc63-4405-965f-650ca8e6c30e',
       // Custom Umami host (Railway deployed)
       src:
         process.env.NEXT_UMAMI_SRC ||
         process.env.NEXT_PUBLIC_UMAMI_SRC ||
         (process.env.UMAMI_HOST
           ? `${process.env.UMAMI_HOST}/script.js`
-          : 'https://us.umami.is/script.js'),
+          : 'https://umami-production-ae2b.up.railway.app/script.js'),
     },
   },
   newsletter: {
