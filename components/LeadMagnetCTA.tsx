@@ -51,8 +51,10 @@ const LeadMagnetCTA = () => {
             Download the Longevity Starter Guide
           </h3>
           <p className="text-gray-600 dark:text-gray-400">
-            Get our 2026 protocol for mitochondrial efficiency, cognitive resilience, and smart
-            bio-tracking in one actionable guide.
+            Get our 2026 protocol for mitochondrial efficiency and cognitive resilience.
+            <span className="mt-2 block font-semibold text-primary-600 dark:text-primary-400">
+              🎁 Bonus: Includes the new "44/60 Shift Checklist" for navigating aging bursts.
+            </span>
           </p>
           {!isUnlocked && (
             <p className="mt-2 text-sm font-medium text-gray-500 italic dark:text-gray-400">
