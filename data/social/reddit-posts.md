@@ -208,7 +208,7 @@ Researchers at Saitama Medical University have identified the **COX7RP** protein
 *   Monitor ApoB and glucose handling (Supercomplexes improve this)
 *   Focus on "Crystallized Intelligence" tasks while training—link the physical and cognitive.
 
-**Full Breakdown on Sarcopenia & the Brain:** [https://blog-the-long-run-production.up.railway.app/blog/beyond-vo2-max-building-mitochondrial-supercomplexes-with-cox7rp](https://blog-the-long-run-production.up.railway.app/blog/beyond-vo2-max-building-mitochondrial-supercomplexes-with-cox7rp)
+**Full Breakdown on Sarcopenia & the Brain:** [https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-supercomplex-protocol-optimizing-the-engine-of-longevity](https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-supercomplex-protocol-optimizing-the-engine-of-longevity)
 
 ---
 
@@ -263,7 +263,7 @@ While we wait for consumer LFU devices, the focus shifts to **Mechanical Hormesi
 
 **Transparency:** This is early-stage but high-conviction. Don't go buying an industrial ultrasound cleaner and sticking your arm in it. 
 
-**Full Deep Dive on LFU & Senolysis:** [https://blog-the-long-run-production.up.railway.app/blog/rejuvenation-without-drugs-the-lfu-breakthrough](https://blog-the-long-run-production.up.railway.app/blog/rejuvenation-without-drugs-the-lfu-breakthrough)
+**Full Deep Dive on LFU & Senolysis:** [https://blog-the-long-run-production.up.railway.app/blog/lfu-senolysis-the-sound-of-silence-for-zombie-cells-myth-bust](https://blog-the-long-run-production.up.railway.app/blog/lfu-senolysis-the-sound-of-silence-for-zombie-cells-myth-bust)
 
 ---
 
@@ -321,4 +321,4 @@ Aging doesn't happen at a steady 1% per year. It happens in **Bursts**.
 **Are you in an Acceleration Window?**
 Drop your age and current protocol below, and let's map out the pivot.
 
-**Read the full Intelligence Brief on the 44/60 Shift:** [https://blog-the-long-run-production.up.railway.app/blog/the-acceleration-windows-44-60-shifts](https://blog-the-long-run-production.up.railway.app/blog/the-acceleration-windows-44-60-shifts)
+**Read the full Intelligence Brief on the 44/60 Shift:** [https://blog-the-long-run-production.up.railway.app/blog/aging-bursts-44-60-snyder-lab](https://blog-the-long-run-production.up.railway.app/blog/aging-bursts-44-60-snyder-lab)
