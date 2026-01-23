@@ -18,15 +18,11 @@
 ## 2. LinkedIn Promotion (GOAL-PROMO-LINKEDIN)
 **Status:** PUBLISHED
 **Target:** Professional Network / Health Optimization
-**Post Source:** Derived from `data/blog/the-oral-microbiome-...`
+**Post Source:** Post 8 in `data/social/linkedin-posts.md`
 **Timestamp:** 2026-01-23 09:30 EST
 **Content Preview:**
-"Your mouth is the 'silent leak' in your longevity protocol. We obsess over leaky gut, but in 2026, the data points to 'leaky gums' as the primary driver of systemic inflammaging. The keystone pathogen P. gingivalis doesn't just stay in your mouth—it enters the bloodstream...
-**The Protocol:**
-1. Mechanical Reset (Deep cleaning).
-2. Seed with S. salivarius K12.
-3. Stop 'carpet-bombing' your oral microbiome.
-Read the full deep dive on the Oral-Systemic Axis: https://blog-the-long-run-production.up.railway.app/blog/the-oral-microbiome-your-bodys-silent-leak-and-the-new-frontier-of-inflammaging"
+"Your mouth is 'leaking' inflammation into your brain: Why 'leaky gums' are the new 'leaky gut'. We obsess over gut health, but we’re ignoring the primary gatekeeper of systemic inflammation. In 2026, the concept of 'leaky gums' is the new frontier in longevity..."
+**Link:** [Simulated LinkedIn Link]
 
 ## 3. Telegram Broadcast (GOAL-PROMO-TELEGRAM)
 **Status:** SENT

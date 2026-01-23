@@ -183,3 +183,27 @@ Is your protocol optimized for synergy?
 Full breakdown of the NIA ITP breakthrough: https://blog-the-long-run-production.up.railway.app/blog/rapamycin-acarbose-synergy-the-37-percent-breakthrough
 
 #LongevityScience #Rapamycin #Acarbose #Biohacking #AntiAging #TheLongRun
+
+---
+
+## Post 8: Your mouth is "leaking" inflammation into your brain
+**Target Date**: Week 1, Friday (Cycle 3)
+**Topic**: The Oral Microbiome: Your Body’s "Silent Leak"
+
+We obsess over gut health, but we’re ignoring the primary gatekeeper of systemic inflammation.
+
+In 2026, the concept of "leaky gums" is the new frontier in longevity. Your mouth isn't an isolated compartment; it's a direct highway to your brain and heart.
+
+Key findings from our latest deep dive:
+
+1. **The Keystone Pathogen**: *P. gingivalis* doesn't just stay in your mouth. It enters the bloodstream, crosses the Blood-Brain Barrier, and releases neurotoxic gingipains linked to Alzheimer's.
+
+2. **The Nitric Oxide Trap**: Alcohol-based mouthwashes are "carpet-bombing" the beneficial bacteria that produce Nitric Oxide—the molecule that keeps your blood pressure low.
+
+3. **The 2026 Protocol**: Ditch the "kill everything" approach. Move to microbiome seeding (oral probiotics) and mechanical resets.
+
+Don't let a "silent leak" drain your healthspan.
+
+Full protocol and research: https://blog-the-long-run-production.up.railway.app/blog/the-oral-microbiome-your-bodys-silent-leak-and-the-new-frontier-of-inflammaging
+
+#Longevity #OralMicrobiome #Healthspan #Inflammaging #BrainHealth #TheLongRun
