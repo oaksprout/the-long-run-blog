@@ -163,7 +163,7 @@ Fix: Magnesium intake + Stress management (Cortisol management) to protect your 
 ✅ Monitor ApoB/Glucose handling
 ✅ Build "Crystallized Intelligence" while training
 
-7/ Deep dive into Sarcopenia & the Brain here: https://blog-the-long-run-production.up.railway.app/blog/beyond-vo2-max-building-mitochondrial-supercomplexes-with-cox7rp
+7/ Deep dive into Sarcopenia & the Brain here: https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-supercomplex-protocol-optimizing-the-engine-of-longevity
 
 8/ 🔓 **SHARE TO UNLOCK**: Protect your muscle, protect your mind. Retweet this thread to unlock our free **2026 Longevity Starter Guide**. 
 
@@ -207,7 +207,7 @@ Fix: Magnesium intake + Stress management (Cortisol management) to protect your 
 
 6/ Early stage, but high conviction. The future of longevity isn't just in a pharmacy—it's in the engineering lab.
 
-7/ Full Deep Dive on LFU & the Senolytic Revolution: https://blog-the-long-run-production.up.railway.app/blog/rejuvenation-without-drugs-the-lfu-breakthrough
+7/ Full Deep Dive on LFU & the Senolytic Revolution: https://blog-the-long-run-production.up.railway.app/blog/lfu-senolysis-the-sound-of-silence-for-zombie-cells-myth-bust
 
 8/ 🔓 **SHARE TO UNLOCK**: Curious about the future of cell rejuvenation? Retweet this thread to unlock our free **2026 Longevity Starter Guide**. 
 
@@ -253,7 +253,7 @@ The best hedge against inflation is your ability to earn at 85. Higher occupatio
 
 6/ Knowing *when* the walls are coming allows you to build the "recovery floor" before you fall through it.
 
-7/ Read the full Intelligence Brief on the 44/60 Acceleration Windows: https://blog-the-long-run-production.up.railway.app/blog/the-acceleration-windows-44-60-shifts
+7/ Read the full Intelligence Brief on the 44/60 Acceleration Windows: https://blog-the-long-run-production.up.railway.app/blog/aging-bursts-44-60-snyder-lab
 
 8/ 🔓 **SHARE TO UNLOCK**: Want to navigate the aging bursts? Retweet this thread to unlock our free **2026 Longevity Starter Guide**. 
 
