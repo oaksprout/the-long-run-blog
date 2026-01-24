@@ -64,6 +64,7 @@ The NIA ITP has identified a new heavyweight champion: The combination of Rapamy
 Rapamycin can occasionally spike fasting glucose. Acarbose isn't just an add-on; it’s the metabolic insurance policy that allows Rapamycin to do its job.
 
 🔗 **Deep Dive:** [thelongrun.blog/blog/rapamycin-acarbose-synergy](https://blog-the-long-run-production.up.railway.app/blog/rapamycin-acarbose-synergy-the-37-percent-breakthrough)
+
 ---
 
 ## Brief #4: 🧱 The 44/60 Acceleration Windows
@@ -82,3 +83,22 @@ Aging isn’t linear. New research from Stanford’s Snyder Lab reveals that our
 Don't wait for symptoms. The 44/60 Shift happens at the molecular level before you feel it. Build your "recovery floor" before the window opens.
 
 🔗 **Deep Dive:** [thelongrun.blog/blog/aging-bursts-44-60](https://blog-the-long-run-production.up.railway.app/blog/aging-bursts-44-60-snyder-lab)
+
+---
+
+## Brief #5: 🦷 The "Silent Leak" of Aging
+**Date:** Jan 22, 2026
+**Topic:** Oral Microbiome & Inflammaging
+
+⚡ **The Signal:**
+"Leaky Gums" are the new "Leaky Gut." 2026 research confirms that the oral pathogen *P. gingivalis* enters the bloodstream and releases neurotoxic gingipains, directly contributing to Alzheimer's pathology and arterial stiffness.
+
+🛠 **The Protocol:**
+1.  **Stop Carpet-Bombing:** Ditch alcohol-based mouthwash. It kills nitrate-reducing bacteria, destroying your body's ability to produce Nitric Oxide (NO) for blood pressure control.
+2.  **Seed the Good Guys:** Use *S. salivarius K12* oral probiotics after brushing to outcompete pathogens.
+3.  **Mechanical Hygiene:** Tongue scrape daily. The tongue is a reservoir for the "bad guys."
+
+⚠️ **The Smart Friend Warning:**
+A "clean" feeling from burning mouthwash is actually a sign of dysbiosis. You are nuking your cardiovascular defense system.
+
+🔗 **Deep Dive:** [thelongrun.blog/blog/the-oral-microbiome](https://blog-the-long-run-production.up.railway.app/blog/the-oral-microbiome-your-bodys-silent-leak-and-the-new-frontier-of-inflammaging)
