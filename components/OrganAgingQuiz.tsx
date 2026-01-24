@@ -2,6 +2,16 @@
 
 import React, { useState } from 'react'
 
+interface Umami {
+  track: (eventName: string, eventData?: object) => void
+}
+
+declare global {
+  interface Window {
+    umami: Umami
+  }
+}
+
 const questions = [
   {
     id: 'sleep',
@@ -38,17 +48,35 @@ const OrganAgingQuiz = () => {
   const [showResults, setShowResults] = useState(false)
   const [chronologicalAge, setChronologicalAge] = useState(40)
 
-  const handleAnswer = (weights) => {
+  const handleAnswer = (option: (typeof questions)[0]['options'][0]) => {
+    const { weights } = option
     const newScores = { ...scores }
     Object.keys(weights).forEach((organ) => {
       newScores[organ] += weights[organ]
     })
     setScores(newScores)
 
+    // Track answer
+    if (typeof window !== 'undefined' && window.umami) {
+      window.umami.track('quiz_answer', {
+        question: questions[step].id,
+        answer: option.label,
+      })
+    }
+
     if (step < questions.length - 1) {
       setStep(step + 1)
     } else {
       setShowResults(true)
+      // Track completion
+      if (typeof window !== 'undefined' && window.umami) {
+        window.umami.track('quiz_complete', {
+          brain_age: chronologicalAge + newScores.brain,
+          heart_age: chronologicalAge + newScores.heart,
+          liver_age: chronologicalAge + newScores.liver,
+          lungs_age: chronologicalAge + newScores.lungs,
+        })
+      }
     }
   }
 
@@ -70,6 +98,9 @@ const OrganAgingQuiz = () => {
         </div>
         <button
           onClick={() => {
+            if (typeof window !== 'undefined' && window.umami) {
+              window.umami.track('quiz_restart')
+            }
             setStep(0)
             setScores({ brain: 0, heart: 0, liver: 0, lungs: 0 })
             setShowResults(false)
@@ -94,7 +125,7 @@ const OrganAgingQuiz = () => {
         {questions[step].options.map((option, index) => (
           <button
             key={index}
-            onClick={() => handleAnswer(option.weights)}
+            onClick={() => handleAnswer(option)}
             className="hover:border-primary-500 hover:bg-primary-50/50 dark:hover:border-primary-400 dark:hover:bg-primary-900/20 w-full rounded-lg border border-gray-200 px-4 py-3 text-left dark:border-gray-600"
           >
             {option.label}
