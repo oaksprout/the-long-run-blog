@@ -13,3 +13,14 @@
 **Metrics (Initial)**:
 - Views: 0 (Just sent)
 - Clicks: 0
+
+## Broadcast #2
+**Time**: 12:30 EST
+**Content**: Brief #4: 🧬 Your Organs are Aging at Different Rates
+**Source**: Artifact `bafkreibtaobkh5xm3dbwtpbf64ft7tzjwqcbnr2o6lpr7mfz7gk7d76fpe`
+**Status**: SENT
+**Message ID**: TGM-002 (Sent via fallback)
+
+**Metrics (Initial)**:
+- Views: 0 (Just sent)
+- Clicks: 0

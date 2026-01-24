@@ -67,7 +67,26 @@ Rapamycin can occasionally spike fasting glucose. Acarbose isn't just an add-on;
 
 ---
 
-## Brief #4: 🦷 The "Silent Leak" of Aging
+## Brief #4: 🧱 The 44/60 Acceleration Windows
+**Date:** Jan 22, 2026
+**Topic:** The 44/60 Shift Protocol
+
+⚡ **The Signal:**
+Aging isn’t linear. New research from Stanford’s Snyder Lab reveals that our bodies undergo massive molecular shifts in two distinct "Acceleration Windows": one at **age 44** and another at **age 60**. 
+
+🛠 **The Protocol (The 44/60 Shift):**
+1. **Window 1 (Age 44):** Pivot toward aggressive lipid management (ApoB < 60 mg/dL) and hypertrophy-focused resistance training to counter shifts in metabolism and skin/muscle integrity.
+2. **Window 2 (Age 60):** Focus on immune rejuvenation (Omega-3s, Sulforaphane) and strict glucose monitoring (CGM) to combat the spike in inflammaging and cardiovascular vulnerability.
+3. **The 3-Day Rule:** Limit alcohol and caffeine to 3 days/week to accommodate slower metabolic clearance that begins in the mid-40s.
+
+⚠️ **The Smart Friend Warning:**
+Don't wait for symptoms. The 44/60 Shift happens at the molecular level before you feel it. Build your "recovery floor" before the window opens.
+
+🔗 **Deep Dive:** [thelongrun.blog/blog/aging-bursts-44-60](https://blog-the-long-run-production.up.railway.app/blog/aging-bursts-44-60-snyder-lab)
+
+---
+
+## Brief #5: 🦷 The "Silent Leak" of Aging
 **Date:** Jan 22, 2026
 **Topic:** Oral Microbiome & Inflammaging
 
