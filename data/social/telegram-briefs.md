@@ -64,3 +64,41 @@ The NIA ITP has identified a new heavyweight champion: The combination of Rapamy
 Rapamycin can occasionally spike fasting glucose. Acarbose isn't just an add-on; it’s the metabolic insurance policy that allows Rapamycin to do its job.
 
 🔗 **Deep Dive:** [thelongrun.blog/blog/rapamycin-acarbose-synergy](https://blog-the-long-run-production.up.railway.app/blog/rapamycin-acarbose-synergy-the-37-percent-breakthrough)
+
+---
+
+## Brief #4: 🧱 The 44/60 Acceleration Windows
+**Date:** Jan 22, 2026
+**Topic:** The 44/60 Shift Protocol
+
+⚡ **The Signal:**
+Aging isn’t linear. New research from Stanford’s Snyder Lab reveals that our bodies undergo massive molecular shifts in two distinct "Acceleration Windows": one at **age 44** and another at **age 60**. 
+
+🛠 **The Protocol (The 44/60 Shift):**
+1. **Window 1 (Age 44):** Pivot toward aggressive lipid management (ApoB < 60 mg/dL) and hypertrophy-focused resistance training to counter shifts in metabolism and skin/muscle integrity.
+2. **Window 2 (Age 60):** Focus on immune rejuvenation (Omega-3s, Sulforaphane) and strict glucose monitoring (CGM) to combat the spike in inflammaging and cardiovascular vulnerability.
+3. **The 3-Day Rule:** Limit alcohol and caffeine to 3 days/week to accommodate slower metabolic clearance that begins in the mid-40s.
+
+⚠️ **The Smart Friend Warning:**
+Don't wait for symptoms. The 44/60 Shift happens at the molecular level before you feel it. Build your "recovery floor" before the window opens.
+
+🔗 **Deep Dive:** [thelongrun.blog/blog/aging-bursts-44-60](https://blog-the-long-run-production.up.railway.app/blog/aging-bursts-44-60-snyder-lab)
+
+---
+
+## Brief #5: 🦷 The "Silent Leak" of Aging
+**Date:** Jan 22, 2026
+**Topic:** Oral Microbiome & Inflammaging
+
+⚡ **The Signal:**
+"Leaky Gums" are the new "Leaky Gut." 2026 research confirms that the oral pathogen *P. gingivalis* enters the bloodstream and releases neurotoxic gingipains, directly contributing to Alzheimer's pathology and arterial stiffness.
+
+🛠 **The Protocol:**
+1.  **Stop Carpet-Bombing:** Ditch alcohol-based mouthwash. It kills nitrate-reducing bacteria, destroying your body's ability to produce Nitric Oxide (NO) for blood pressure control.
+2.  **Seed the Good Guys:** Use *S. salivarius K12* oral probiotics after brushing to outcompete pathogens.
+3.  **Mechanical Hygiene:** Tongue scrape daily. The tongue is a reservoir for the "bad guys."
+
+⚠️ **The Smart Friend Warning:**
+A "clean" feeling from burning mouthwash is actually a sign of dysbiosis. You are nuking your cardiovascular defense system.
+
+🔗 **Deep Dive:** [thelongrun.blog/blog/the-oral-microbiome](https://blog-the-long-run-production.up.railway.app/blog/the-oral-microbiome-your-bodys-silent-leak-and-the-new-frontier-of-inflammaging)
