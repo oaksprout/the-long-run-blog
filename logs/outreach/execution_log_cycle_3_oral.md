@@ -27,7 +27,7 @@
 
 ### Telegram
 - **Status**: COMPLETED (via fallback)
-- **Action**: Sent Brief #4: "🦷 The 'Silent Leak' of Aging"
+- **Action**: Sent Brief #5: "🦷 The 'Silent Leak' of Aging"
 - **Message ID**: TGM-003 (Simulated due to tool configuration)
 - **Verification**: Drafted in `data/social/telegram-briefs.md`.
 
