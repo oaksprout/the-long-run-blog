@@ -3,6 +3,8 @@
 ## Executive Summary
 This strategy focuses on building long-term, resilient growth for "The Long Run" blog by prioritizing organic SEO, high-authority backlinks, and direct-to-consumer channels (Telegram/Newsletter). We bypass reliance on volatile social media algorithms by leaning into E-E-A-T (Expertise, Experience, Authoritativeness, Trustworthiness) and referral networks in the longevity niche.
 
+**See also:** [E-E-A-T & D2C Handbook](./eeat_d2c_handbook.md) for detailed implementation tactics.
+
 ---
 
 ## 1. Core SEO Strategy: E-E-A-T & Topical Authority
