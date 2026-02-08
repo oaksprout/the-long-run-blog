@@ -1,11 +1,12 @@
 'use client'
 
 import React, { useState } from 'react'
+import LeadMagnetCTA from './LeadMagnetCTA'
 
 interface Umami {
   track: (eventName: string, eventData?: object) => void
 }
-
+// ... existing interface and declare global ...
 declare global {
   interface Window {
     umami: Umami
@@ -82,33 +83,68 @@ const OrganAgingQuiz = () => {
 
   if (showResults) {
     return (
-      <div className="rounded-xl border border-gray-200 bg-white p-8 shadow-sm dark:border-gray-700 dark:bg-gray-800">
-        <h2 className="mb-6 text-2xl font-bold text-gray-900 dark:text-gray-100">
-          Your Estimated Organ Ages
-        </h2>
-        <div className="space-y-4">
-          {Object.entries(scores).map(([organ, score]) => (
-            <div key={organ} className="flex items-center justify-between">
-              <span className="text-gray-600 capitalize dark:text-gray-300">{organ}</span>
-              <span className="text-primary-500 font-semibold">
-                {chronologicalAge + score} years
-              </span>
+      <div className="space-y-6">
+        <div className="rounded-xl border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
+          <h2 className="mb-4 text-xl font-bold text-gray-900 dark:text-gray-100">
+            Your Biological Age Offset
+          </h2>
+          <div className="mb-6 grid grid-cols-2 gap-4">
+            {Object.entries(scores).map(([organ, score]) => (
+              <div
+                key={organ}
+                className="flex flex-col items-center rounded-lg bg-gray-50 p-3 dark:bg-gray-700/50"
+              >
+                <span className="text-xs text-gray-500 uppercase dark:text-gray-400">{organ}</span>
+                <span
+                  className={`text-lg font-bold ${
+                    score > 0 ? 'text-red-500' : score < 0 ? 'text-green-500' : 'text-gray-500'
+                  }`}
+                >
+                  {score > 0 ? `+${score}` : score} years
+                </span>
+              </div>
+            ))}
+          </div>
+
+          <div className="border-t border-gray-100 pt-4 dark:border-gray-700">
+            <label
+              htmlFor="age-range"
+              className="mb-2 block text-sm font-medium text-gray-700 dark:text-gray-300"
+            >
+              Adjust your chronological age for a full report:
+            </label>
+            <div className="flex items-center gap-4">
+              <input
+                id="age-range"
+                type="range"
+                min="20"
+                max="80"
+                value={chronologicalAge}
+                onChange={(e) => setChronologicalAge(parseInt(e.target.value))}
+                className="h-2 w-full cursor-pointer appearance-none rounded-lg bg-gray-200 dark:bg-gray-700"
+              />
+              <span className="text-primary-500 w-12 text-lg font-bold">{chronologicalAge}</span>
             </div>
-          ))}
+          </div>
+
+          <button
+            onClick={() => {
+              if (typeof window !== 'undefined' && window.umami) {
+                window.umami.track('quiz_restart')
+              }
+              setStep(0)
+              setScores({ brain: 0, heart: 0, liver: 0, lungs: 0 })
+              setShowResults(false)
+            }}
+            className="text-primary-500 hover:text-primary-600 mt-6 w-full text-sm font-medium underline"
+          >
+            Restart Quiz
+          </button>
         </div>
-        <button
-          onClick={() => {
-            if (typeof window !== 'undefined' && window.umami) {
-              window.umami.track('quiz_restart')
-            }
-            setStep(0)
-            setScores({ brain: 0, heart: 0, liver: 0, lungs: 0 })
-            setShowResults(false)
-          }}
-          className="bg-primary-500 hover:bg-primary-600 mt-8 w-full rounded-md py-2 text-white"
-        >
-          Restart Quiz
-        </button>
+
+        <div className="animate-in fade-in slide-in-from-bottom-4 duration-1000">
+          <LeadMagnetCTA />
+        </div>
       </div>
     )
   }
