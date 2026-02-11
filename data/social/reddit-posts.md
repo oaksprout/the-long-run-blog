@@ -132,7 +132,7 @@ Most people focus on Dr. Peter Attia's advice for VO2 max and deadlifts. But as 
 
 ---
 
-## Post 4: r/Biohackers - GLP-1s are now "Brainspan" drugs (Buck Institute 2026 data)
+## Post 6: r/Biohackers - GLP-1s are now "Brainspan" drugs (Buck Institute 2026 data)
 
 **Title**: GLP-1s are now "Brainspan" drugs: Why the weight loss is the least interesting part of the 2026 data
 
@@ -159,7 +159,7 @@ Full breakdown of the SELECT trial cognitive synthesis: [https://blog-the-long-r
 
 ---
 
-## Post 5: r/Longevity - Rapamycin + Acarbose: 37% Synergy (NIA ITP 2026 Update)
+## Post 7: r/Longevity - Rapamycin + Acarbose: 37% Synergy (NIA ITP 2026 Update)
 
 **Title**: 37% Lifespan Extension: Why the Rapa + Acarbose synergy is the new gold standard
 
@@ -180,3 +180,145 @@ Recent 2025 research suggests that high glucose spikes can re-activate mTOR even
 - CGM monitoring is essential to verify the "buffer" effect.
 
 Deep dive into the NIA ITP records and the synergy mechanism: [https://blog-the-long-run-production.up.railway.app/blog/rapamycin-acarbose-synergy-the-37-percent-breakthrough](https://blog-the-long-run-production.up.railway.app/blog/rapamycin-acarbose-synergy-the-37-percent-breakthrough)
+
+---
+
+## Post 8: r/Biohackers - Sarcopenia is a "Brain Crisis": The 2026 Mitochondrial Engine Upgrade
+
+**Headline:** Sarcopenia is a "Brain Crisis": Why building Mitochondrial Supercomplexes is more important than just "bulking"
+
+**Post Content**:
+
+For years, we’ve treated **Sarcopenia** (muscle loss) as a physical frailty issue. But in 2026, the data is clear: muscle is a metabolic sink for the brain. If you lose lean mass, your cognitive reserve collapses.
+
+The breakthrough of the year isn't just "more protein"—it's **Mitochondrial Supercomplex Efficiency**.
+
+**The Science (Jan 2026 Update):**
+Researchers at Saitama Medical University have identified the **COX7RP** protein as the key to clustering mitochondrial enzymes into "supercomplexes." These clusters burn fuel cleaner and produce less oxidative "smoke."
+
+**The Result:** 6.6% lifespan increase in mice, but more importantly, a massive jump in muscle endurance and metabolic stability.
+
+**The Protocol for 2026:**
+1.  **The Oxytocin Leverage:** New UC Berkeley research shows that combining **Oxytocin** (for tissue repair) with **Alk5 inhibitors** (to block inflammatory TGF-beta) can reverse frailty even in late life (73% lifespan extension from treatment start).
+2.  **Targeted Resistance:** You aren't just training for aesthetics; you're training for **COX7RP** stability. This requires high-intensity mechanical tension followed by specific recovery windows.
+3.  **The GLP-1 Warning:** If you are on a GLP-1 for metabolic health, you are at 3x higher risk for sarcopenia. You MUST double your resistance training volume to protect your brainspan.
+
+**Summary Checklist:**
+*   Heavy resistance training (3x/week)
+*   Monitor ApoB and glucose handling (Supercomplexes improve this)
+*   Focus on "Crystallized Intelligence" tasks while training—link the physical and cognitive.
+
+**Full Breakdown on Sarcopenia & the Brain:** [https://blog-the-long-run-production.up.railway.app/blog/beyond-vo2-max-building-mitochondrial-supercomplexes-with-cox7rp](https://blog-the-long-run-production.up.railway.app/blog/beyond-vo2-max-building-mitochondrial-supercomplexes-with-cox7rp)
+
+---
+
+## Post 9: r/Longevity - Why Sleep is the ultimate "Organ De-Ager" (New 2026 Circadian Data)
+
+**Headline:** Your brain might be 10 years older than your body—and your sleep schedule is likely why
+
+**Post Content**:
+
+We’ve long known sleep is important, but new 2026 research into **Organ-Specific Biological Clocks** has revealed a terrifying discrepancy: your organs don't age at the same rate.
+
+**The Data (Nature Aging / Neurology 2026):**
+*   **The Brain Clock:** Having a "youthful" brain clock (relative to chronological age) correlates with a **4x lower risk** of Alzheimer's.
+*   **The Circadian Cost:** Disrupted circadian rhythms are now linked to a **45% higher risk of dementia**.
+
+It’s not just "getting 8 hours." It's the **Circadian Alignment** of your specific organ systems.
+
+**Key Takeaways:**
+1.  **The Snapshot Problem:** Epigenetic tests are noisy. A single week of poor sleep can swing your "biological age" by **5.5 years** because the immune system (measured in blood) is hyper-sensitive to sleep deprivation.
+2.  **Organ-Specific Protocols:** We are moving toward "De-Aging" specific organs. For the brain, the protocol is now: **Strict Circadian Windows + Zone 2 "Flushing"**.
+3.  **The 100-Year Perspective:** If you want to be high-functioning at 90, your brain age at 50 is the strongest predictor. You can't "catch up" on brain aging in your 70s.
+
+**Smart Friend Advice:** Stop tracking "Deep Sleep" vs "REM" and start tracking **Consistency**. A 15-minute variance in wake time is more protective for your brain clock than an extra hour of inconsistent sleep.
+
+**Read the full report on Organ-Specific Clocks:** [https://blog-the-long-run-production.up.railway.app/blog/is-your-brain-older-than-your-birth-certificate](https://blog-the-long-run-production.up.railway.app/blog/is-your-brain-older-than-your-birth-certificate)
+
+---
+
+## Post 10: r/Biohackers - Senolytics without Drugs? The LFU Breakthrough
+
+**Headline:** Rejuvenating cells with Ultrasound? The 2025 "Non-Drug" Senolytic Revolution
+
+**Post Content**:
+
+The biggest hurdle in the biohacking community for senolytics (clearing "zombie cells") has been the side effects and the "hit or miss" nature of D+Q or Fisetin.
+
+But a landmark study (March 2025) has changed the game: **Low-Frequency Ultrasound (LFU)**.
+
+**What happened:**
+Researchers found that LFU doesn't just kill senescent cells—it **rejuvenates** them. It reverses 15 characteristics of senescence, inhibits the pro-aging mTOR pathway, and kicks autophagy (cellular cleanup) into high gear.
+
+**The Results:**
+*   Rejuvenation of cells *in vitro* and *in vivo*.
+*   Survival extension in mice up to **3 years** (the biological equivalent of a human living to 110+).
+*   Reduction in SASP (inflammatory "zombie cell" secretions).
+
+**Why this matters for you:**
+We are entering the era of **Physical Longevity Tech**. Instead of a pill that has systemic side effects, we may soon be using targeted ultrasound "baths" to reset our cellular age. 
+
+**The Hack (For Now):**
+While we wait for consumer LFU devices, the focus shifts to **Mechanical Hormesis**. Activities that provide high-frequency mechanical vibration and compression (like specific types of plyometrics or vibration platforms) are being re-evaluated for their "proto-senolytic" effects.
+
+**Transparency:** This is early-stage but high-conviction. Don't go buying an industrial ultrasound cleaner and sticking your arm in it. 
+
+**Full Deep Dive on LFU & Senolysis:** [https://blog-the-long-run-production.up.railway.app/blog/rejuvenation-without-drugs-the-lfu-breakthrough](https://blog-the-long-run-production.up.railway.app/blog/rejuvenation-without-drugs-the-lfu-breakthrough)
+
+---
+
+## Post 11: r/Longevity - Why your 401k is obsolete (The Longevity Finance Pivot)
+
+**Headline:** Why your financial advisor isn't ready for your 100-year healthspan
+
+**Post Content**:
+
+If you are planning for a 20-year retirement starting at 65, you are prepared for a world that no longer exists. In the 2026 longevity landscape, **Finance is a Biological problem**.
+
+We call it the **Longevity Finance Pivot**. 
+
+**The Crisis:**
+If you live to 100 and maintain high cognitive function, you have a **35-year "Third Act"**. Most financial models assume a "Glide Path" toward cognitive decline and death. But if you are biologically 60 at chronological 80, your 401k is woefully underfunded.
+
+**The Solution: Cognitive Resilience as the New 401k.**
+1.  **Occupational Complexity:** The best hedge against inflation is your ability to earn at 85. Higher occupational complexity = 20-30% reduction in cognitive decline.
+2.  **The Identity Shift:** Move from "Saving for Retirement" to "Investing in Learning Agility." Career longevity is now synonymous with the ability to pivot into high-value consulting or advising late in life.
+3.  **Biological Insurance:** Spending $10k/year on a high-level longevity protocol (Zone 2, DEXA, Rapa/Acarbose, specialized testing) is a better "ROI" than most index funds if it buys you another decade of $200k+ earnings capacity.
+
+**The 100-Year Career Model:**
+Education -> Work -> Pivot -> Advisor -> Wisdom-Sharer. 
+
+Stop saving for the end of your life and start investing in the *extension* of your prime.
+
+**Full Report on Longevity Finance:** [https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career](https://blog-the-long-run-production.up.railway.app/blog/cognitive-resilience-the-new-currency-of-the-100-year-career)
+
+---
+
+## Post 12: r/Biohackers - The 2026 Intelligence Brief: The 44/60 Acceleration Windows
+
+**Headline:** Aging isn't linear: Why you hit a "Biological Wall" at age 44 and 60 (and how to pivot)
+
+**Post Content**:
+
+If you’ve ever felt like your body "just changed" overnight around your mid-40s or at 60, you aren't imagining it. A landmark *Nature Aging* study (Snyder Lab) has identified two distinct **Acceleration Windows**.
+
+Aging doesn't happen at a steady 1% per year. It happens in **Bursts**.
+
+**The 44-Year Shift:**
+*   **The Breakdown:** Massive shifts in lipid metabolism (ApoB), skin/muscle integrity, and—critically—alcohol and caffeine tolerance.
+*   **The Hack:** If you are 40-45, your protocol *must* pivot toward aggressive lipid management and protecting lean mass. The "recovery floor" is higher than you think.
+
+**The 60-Year Shift:**
+*   **The Breakdown:** Shifts in immune regulation, kidney function, and carbohydrate metabolism (A1c/CGM baseline).
+*   **The Hack:** This is the window for immune rejuvenation (Urolithin A / Senolytics) and strict glucose blunting.
+
+**The 2026 Intelligence Brief (Summary):**
+*   **Mitochondria:** Focus on Supercomplex efficiency (COX7RP).
+*   **Muscle:** Use the Oxytocin/Alk5 leverage to prevent late-life frailty.
+*   **Tech:** Watch for LFU (Ultrasound) senolytics as the drug-free alternative.
+*   **Strategy:** Don't train for today. Train for the window you are about to hit.
+
+**Are you in an Acceleration Window?**
+Drop your age and current protocol below, and let's map out the pivot.
+
+**Read the full Intelligence Brief on the 44/60 Shift:** [https://blog-the-long-run-production.up.railway.app/blog/the-acceleration-windows-44-60-shifts](https://blog-the-long-run-production.up.railway.app/blog/the-acceleration-windows-44-60-shifts)

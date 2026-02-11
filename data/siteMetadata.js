@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'The Long Run',
   author: 'The Long Run',
   headerTitle: 'The Long Run',
-  description: 'Translating cutting-edge longevity research into actionable insights for healthspan extension',
+  description: 'Mastering biological acceleration windows and the 44/60 Shift Protocol through actionable longevity research and healthspan optimization.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://the-long-run-blog.up.railway.app',
@@ -14,7 +14,7 @@ const siteMetadata = {
   github: '',
   x: '',
   linkedin: '',
-  discord: 'https://discord.gg/the-long-run', // Placeholder for community engagement
+  telegram: 'https://t.me/TheLongRunBrief',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
