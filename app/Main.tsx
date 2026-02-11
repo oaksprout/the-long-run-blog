@@ -155,6 +155,51 @@ export default function Home({ posts }) {
 
       <LeadMagnetCTA />
 
+      <div className="bg-gray-50 py-16 dark:bg-gray-900/40">
+        <div className="mx-auto max-w-7xl px-6 lg:px-8">
+          <div className="mx-auto max-w-2xl lg:text-center">
+            <h2 className="text-primary-500 text-base leading-7 font-semibold">Interactive Tools</h2>
+            <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl dark:text-gray-100">
+              Measure & Optimize Your Healthspan
+            </p>
+            <p className="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-300">
+              Go beyond reading. Use our clinical-grade interactive tools to identify your biological
+              weakest links and build your personalized 2026 stack.
+            </p>
+          </div>
+          <div className="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-8 lg:max-w-none lg:grid-cols-2">
+            <div className="flex flex-col rounded-2xl border border-gray-200 bg-white p-8 shadow-sm transition-shadow hover:shadow-md dark:border-gray-700 dark:bg-gray-800">
+              <h3 className="text-xl font-bold text-gray-900 dark:text-gray-100">Organ Aging Quiz</h3>
+              <p className="mt-4 flex-auto text-gray-600 dark:text-gray-300">
+                Identify which of your 11 biological systems is leading the aging race. Based on the
+                2025 Nature Medicine proteomics study.
+              </p>
+              <Link
+                href="/quiz"
+                className="text-primary-500 hover:text-primary-600 mt-6 font-semibold dark:hover:text-primary-400"
+              >
+                Take the Quiz &rarr;
+              </Link>
+            </div>
+            <div className="flex flex-col rounded-2xl border border-gray-200 bg-white p-8 shadow-sm transition-shadow hover:shadow-md dark:border-gray-700 dark:bg-gray-800">
+              <h3 className="text-xl font-bold text-gray-900 dark:text-gray-100">
+                Longevity Stack Tool
+              </h3>
+              <p className="mt-4 flex-auto text-gray-600 dark:text-gray-300">
+                Build your age-adjusted protocol. From VO2 Max in your 30s to Rapamycin pulses in
+                your 60s.
+              </p>
+              <Link
+                href="/blog/the-age-adjusted-longevity-stack-2026"
+                className="text-primary-500 hover:text-primary-600 mt-6 font-semibold dark:hover:text-primary-400"
+              >
+                Build Your Stack &rarr;
+              </Link>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
           {!posts.length && 'No posts found.'}
