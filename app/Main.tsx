@@ -13,16 +13,11 @@ export default function Home({ posts }) {
       <div className="relative isolate overflow-hidden">
         <div className="py-24 sm:py-32">
           <div className="mx-auto max-w-7xl">
-            <div className="mx-auto max-w-3xl lg:mx-0">
-              <div className="mb-8 flex">
-                <div className="border-primary-500/30 bg-primary-500/5 text-primary-600 dark:text-primary-400 ring-primary-500/20 relative rounded-full px-3 py-1 text-sm leading-6 ring-1 ring-inset">
-                  <span className="font-semibold tracking-wide uppercase">
-                    Longevity Intelligence
-                  </span>
-                </div>
-              </div>
-              <h1 className="text-5xl font-extrabold tracking-tight text-gray-900 sm:text-7xl dark:text-gray-100">
-                The Long <span className="text-primary-500">Run</span>
+            <div className="mx-auto max-w-2xl lg:mx-0">
+              <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl dark:text-gray-100">
+                <span className="text-primary-500/50 mr-2 opacity-50">[</span>
+                Longevity <span className="text-primary-500">Feed</span>
+                <span className="text-primary-500/50 ml-2 opacity-50">]</span>
               </h1>
               <p className="mt-8 text-xl leading-9 text-gray-600 dark:text-gray-300">
                 {siteMetadata.description}
@@ -71,7 +66,7 @@ export default function Home({ posts }) {
                   <div className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
                     <dl>
                       <dt className="sr-only">Published on</dt>
-                      <dd className="text-base leading-6 font-medium text-gray-500 dark:text-gray-400">
+                      <dd className="font-mono text-base leading-6 font-medium text-gray-500 dark:text-gray-400">
                         <time dateTime={date}>{formatDate(date, siteMetadata.locale)}</time>
                       </dd>
                     </dl>
@@ -99,10 +94,11 @@ export default function Home({ posts }) {
                       <div className="text-base leading-6 font-medium">
                         <Link
                           href={`/blog/${slug}`}
-                          className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                          className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 font-mono text-sm"
                           aria-label={`Read more: "${title}"`}
                         >
-                          Read more &rarr;
+                          <span className="mr-2">❯</span>
+                          EXECUTE: READ_MORE
                         </Link>
                       </div>
                     </div>

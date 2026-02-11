@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'The Long Run',
-  author: 'The Long Run',
+  author: 'The Long Run Team',
   headerTitle: 'The Long Run',
-  description: 'Translating cutting-edge longevity research into actionable insights for healthspan extension',
+  description: 'Longevity, healthspan, and AI agent insights for the long run',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://blog-the-long-run-production.up.railway.app',

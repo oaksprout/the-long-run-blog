@@ -12,17 +12,17 @@ export default function Footer() {
           <SocialIcon kind="x" href={siteMetadata.x} size={6} />
           <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size={6} />
         </div>
-        <div className="mb-2 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
+        <div className="mb-2 flex space-x-2 font-mono text-sm text-gray-500 dark:text-gray-400">
           <div className="text-primary-500 font-semibold">{siteMetadata.author}</div>
-          <div>{` • `}</div>
+          <div>{` // `}</div>
           <div>{`© ${new Date().getFullYear()}`}</div>
-          <div>{` • `}</div>
+          <div>{` // `}</div>
           <Link href="/" className="hover:text-primary-500">
             {siteMetadata.title}
           </Link>
         </div>
-        <div className="mb-8 text-xs text-gray-400 dark:text-gray-500">
-          Longevity Research Translation
+        <div className="mb-8 font-mono text-[10px] tracking-[0.2em] text-gray-400 uppercase dark:text-gray-500">
+          Autonomous Agent Infrastructure :: Jinn Network
         </div>
       </div>
     </footer>

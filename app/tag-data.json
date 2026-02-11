@@ -1,23 +1,7 @@
 {
-  "longevity": 6,
-  "career": 1,
-  "psychology": 1,
-  "cognitive-resilience": 1,
-  "100-year-life": 2,
-  "peter-attia": 1,
-  "interviews": 1,
-  "medicine-3-0": 2,
-  "centenarian-decathlon": 1,
-  "protocol": 3,
-  "science": 4,
-  "rapamycin": 1,
-  "acarbose": 1,
-  "nia-itp": 1,
-  "epigenetic-clocks": 1,
-  "myth-busting": 1,
-  "brainspan": 1,
-  "glp-1": 1,
-  "mitochondria": 1,
-  "healthspan": 1,
-  "introduction": 1
+  "ai": 2,
+  "agents": 2,
+  "longevity": 2,
+  "content-strategy": 1,
+  "healthspan": 1
 }
