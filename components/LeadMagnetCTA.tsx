@@ -5,6 +5,16 @@ import Link from './Link'
 import SocialIcon from './social-icons'
 import siteMetadata from '@/data/siteMetadata'
 
+interface Umami {
+  track: (eventName: string, eventData?: object) => void
+}
+
+declare global {
+  interface Window {
+    umami: Umami
+  }
+}
+
 const LeadMagnetCTA = () => {
   const [isUnlocked, setIsUnlocked] = useState(false)
   const [mounted, setMounted] = useState(false)
@@ -21,11 +31,20 @@ const LeadMagnetCTA = () => {
   const handleShare = () => {
     if (typeof window !== 'undefined') {
       localStorage.setItem('longevity_guide_unlocked', 'true')
+      if (window.umami) {
+        window.umami.track('lead_magnet_share')
+      }
     }
     // Small delay to ensure the share window starts opening before UI change
     setTimeout(() => {
       setIsUnlocked(true)
     }, 1500)
+  }
+
+  const handleDownloadClick = () => {
+    if (typeof window !== 'undefined' && window.umami) {
+      window.umami.track('lead_magnet_download')
+    }
   }
 
   const shareText = encodeURIComponent(
@@ -80,6 +99,7 @@ const LeadMagnetCTA = () => {
           {isUnlocked ? (
             <Link
               href="/static/resources/longevity-starter-guide.html"
+              onClick={handleDownloadClick}
               className="bg-primary-600 hover:bg-primary-700 focus:ring-primary-300 dark:bg-primary-500 dark:hover:bg-primary-600 dark:focus:ring-primary-800 inline-flex items-center rounded-lg px-8 py-4 text-center text-lg font-bold text-white shadow-lg transition-all hover:scale-105 focus:ring-4 focus:outline-none"
             >
               Download Now
@@ -121,7 +141,12 @@ const LeadMagnetCTA = () => {
                   Share to Unlock
                 </span>
                 <button
-                  onClick={() => setIsUnlocked(true)}
+                  onClick={() => {
+                    setIsUnlocked(true)
+                    if (typeof window !== 'undefined' && window.umami) {
+                      window.umami.track('lead_magnet_unlock_direct')
+                    }
+                  }}
                   className="text-xs text-gray-400 underline hover:text-gray-500"
                 >
                   Or download directly (no share)
