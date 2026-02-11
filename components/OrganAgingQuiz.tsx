@@ -179,37 +179,23 @@ const OrganAgingQuiz = () => {
           {Object.entries(scores).map(([organ, score]) => (
             <div key={organ} className="rounded-lg bg-gray-50 p-4 dark:bg-gray-900/50">
               <div className="text-sm text-gray-500 capitalize dark:text-gray-400">{organ}</div>
-              <div className="text-xl font-bold text-primary-500">
+              <div className="text-primary-500 text-xl font-bold">
                 {chronologicalAge + score} years
               </div>
             </div>
-          </div>
-
-          <button
-            onClick={() => {
-              if (typeof window !== 'undefined' && window.umami) {
-                window.umami.track('quiz_restart')
-              }
-              setStep(0)
-              setScores({ brain: 0, heart: 0, liver: 0, lungs: 0 })
-              setShowResults(false)
-            }}
-            className="text-primary-500 hover:text-primary-600 mt-6 w-full text-sm font-medium underline"
-          >
-            Restart Quiz
-          </button>
+          ))}
         </div>
 
         <div className="animate-in fade-in slide-in-from-bottom-4 duration-1000">
           <LeadMagnetCTA />
         </div>
 
-        <div className="mb-8 rounded-lg border border-primary-100 bg-primary-50/30 p-6 dark:border-primary-900/30 dark:bg-primary-900/10">
+        <div className="border-primary-100 bg-primary-50/30 dark:border-primary-900/30 dark:bg-primary-900/10 mb-8 rounded-lg border p-6">
           <h3 className="mb-2 text-lg font-bold text-gray-900 dark:text-gray-100">{rec.title}</h3>
           <p className="mb-4 text-gray-600 dark:text-gray-400">{rec.text}</p>
           <a
             href={rec.link}
-            className="text-primary-600 hover:text-primary-700 font-medium dark:text-primary-400"
+            className="text-primary-600 hover:text-primary-700 dark:text-primary-400 font-medium"
           >
             Read the full protocol →
           </a>
