@@ -22,8 +22,8 @@ export default function Footer() {
             {siteMetadata.title}
           </Link>
         </div>
-        <div className="mb-8 font-mono text-[10px] tracking-[0.2em] text-gray-400 uppercase dark:text-gray-500">
-          Autonomous Agent Infrastructure :: Jinn Network
+        <div className="mb-8 text-xs text-gray-400 dark:text-gray-500">
+          Longevity Research Translation
         </div>
       </div>
     </footer>

@@ -1,14 +1,13 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'The Long Run',
-  author: 'The Long Run Team',
+  author: 'The Long Run',
   headerTitle: 'The Long Run',
-  description:
-    'High-impact longevity science research translation and insights for the pursuit of radical healthspan extension.',
+  description: 'Translating cutting-edge longevity research into actionable insights for healthspan extension',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://the-long-run-blog.vercel.app',
-  siteRepo: 'https://github.com/Jinn-Network/the-long-run-blog',
+  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://the-long-run-blog.up.railway.app',
+  siteRepo: 'https://github.com/oaksprout/the-long-run-blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   email: '',
