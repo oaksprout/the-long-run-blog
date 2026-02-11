@@ -54,6 +54,7 @@ const LeadMagnetCTA = () => {
 
   const xShareUrl = `https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}`
   const linkedinShareUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${shareUrl}`
+  const telegramShareUrl = `https://t.me/TheLongRunBrief`
 
   // Avoid hydration mismatch by rendering a placeholder during SSR
   if (!mounted) {
@@ -131,6 +132,13 @@ const LeadMagnetCTA = () => {
                 <SocialIcon
                   kind="linkedin"
                   href={linkedinShareUrl}
+                  size={12}
+                  onClick={handleShare}
+                  className="hover:text-primary-500 transition-all hover:scale-125"
+                />
+                <SocialIcon
+                  kind="telegram"
+                  href={telegramShareUrl}
                   size={12}
                   onClick={handleShare}
                   className="hover:text-primary-500 transition-all hover:scale-125"
