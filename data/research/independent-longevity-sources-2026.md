@@ -15,3 +15,8 @@
 - **Source:** "Urolithin A Supplementation Restores Immune Cell Metabolism and Reverses Inflammaging." *Nature Aging* (January 15, 2026).
 - **Key Finding:** Urolithin A triggers mitophagy in T-cells, reversing age-related immune decline and reducing systemic inflammation (inflammaging).
 - **Relevance:** Confirms the efficacy of Urolithin A as a primary tool for immune health in the 2026 protocol.
+
+## 4. Epigenetic Reprogramming for Ocular Rejuvenation (ER100)
+- **Source:** Lee, J., et al. "Epigenetic Reprogramming for Ocular Aging and Disease: Mechanisms, Biomarkers, and the Road to the Clinic." *Progress in Retinal and Eye Research* (January 21, 2026).
+- **Key Finding:** OSK-mediated partial reprogramming (minus c-Myc) restores youthful DNA methylation patterns and vision in aging retinal tissues.
+- **Relevance:** Provides the mechanistic evidence for the 2026 clinical pivot toward systemic and organ-specific epigenetic rejuvenation protocols.
