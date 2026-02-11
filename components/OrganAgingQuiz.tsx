@@ -15,37 +15,90 @@ declare global {
 
 const questions = [
   {
-    id: 'sleep',
-    text: 'How many hours of sleep do you average per night?',
+    id: 'brain_fog',
+    text: 'Do you experience "brain fog" or word-finding difficulties after 3 PM?',
+    category: 'brain',
     options: [
-      { label: 'Less than 6 hours', weights: { brain: 3, heart: 1 } },
-      { label: '6-8 hours', weights: { brain: 0, heart: 0 } },
-      { label: '8+ hours', weights: { brain: -1, heart: -1 } },
+      { label: 'Frequently', weights: { brain: 4 } },
+      { label: 'Occasionally', weights: { brain: 2 } },
+      { label: 'Rarely/Never', weights: { brain: 0 } },
     ],
   },
   {
-    id: 'exercise',
-    text: 'How many minutes of zone 2 cardio do you do per week?',
+    id: 'sleep_latency',
+    text: 'How long does it typically take you to fall asleep?',
+    category: 'brain',
     options: [
-      { label: '0-30 mins', weights: { heart: 4, lungs: 3 } },
-      { label: '30-150 mins', weights: { heart: 0, lungs: 0 } },
-      { label: '150+ mins', weights: { heart: -2, lungs: -2 } },
+      { label: 'More than 20 minutes', weights: { brain: 3 } },
+      { label: '10-20 minutes', weights: { brain: 1 } },
+      { label: 'Less than 10 minutes', weights: { brain: 0 } },
     ],
   },
   {
-    id: 'diet',
-    text: 'How often do you consume processed sugars?',
+    id: 'heart_recovery',
+    text: 'What is your recovery time after climbing a flight of stairs?',
+    category: 'heart',
     options: [
-      { label: 'Daily', weights: { liver: 3, brain: 2 } },
-      { label: 'A few times a week', weights: { liver: 1, brain: 1 } },
-      { label: 'Rarely', weights: { liver: 0, brain: 0 } },
+      { label: 'I feel winded for more than a minute', weights: { heart: 4, lungs: 2 } },
+      { label: 'I catch my breath in 30-60 seconds', weights: { heart: 2, lungs: 1 } },
+      { label: 'I feel fine almost immediately', weights: { heart: 0, lungs: 0 } },
+    ],
+  },
+  {
+    id: 'cold_extremities',
+    text: 'Do you have cold hands or feet regularly, even in warm environments?',
+    category: 'heart',
+    options: [
+      { label: 'Yes, frequently', weights: { heart: 3 } },
+      { label: 'Sometimes', weights: { heart: 1 } },
+      { label: 'Rarely/Never', weights: { heart: 0 } },
+    ],
+  },
+  {
+    id: 'metabolic_hunger',
+    text: 'Do you get "hangry" or shaky if you miss a meal?',
+    category: 'metabolic',
+    options: [
+      { label: 'Yes, definitely', weights: { liver: 4 } },
+      { label: 'Occasionally', weights: { liver: 2 } },
+      { label: 'Rarely/Never', weights: { liver: 0 } },
+    ],
+  },
+  {
+    id: 'visceral_fat',
+    text: 'Where do you primarily store body fat when you gain weight?',
+    category: 'metabolic',
+    options: [
+      { label: 'Midsection/Visceral area', weights: { liver: 4 } },
+      { label: 'Hips/Thighs', weights: { liver: 1 } },
+      { label: 'Evenly distributed', weights: { liver: 0 } },
+    ],
+  },
+  {
+    id: 'thirst',
+    text: 'Is your hydration constant but you still feel thirsty?',
+    category: 'kidney',
+    options: [
+      { label: 'Yes, often', weights: { kidney: 4 } },
+      { label: 'Sometimes', weights: { kidney: 2 } },
+      { label: 'Rarely/Never', weights: { kidney: 0 } },
+    ],
+  },
+  {
+    id: 'puffiness',
+    text: 'Do you have puffiness under the eyes in the morning?',
+    category: 'kidney',
+    options: [
+      { label: 'Yes, frequently', weights: { kidney: 3 } },
+      { label: 'Occasionally', weights: { kidney: 1 } },
+      { label: 'Rarely/Never', weights: { kidney: 0 } },
     ],
   },
 ]
 
 const OrganAgingQuiz = () => {
   const [step, setStep] = useState(0)
-  const [scores, setScores] = useState({ brain: 0, heart: 0, liver: 0, lungs: 0 })
+  const [scores, setScores] = useState({ brain: 0, heart: 0, liver: 0, lungs: 0, kidney: 0 })
   const [showResults, setShowResults] = useState(false)
   const [chronologicalAge, setChronologicalAge] = useState(40)
 
@@ -57,7 +110,6 @@ const OrganAgingQuiz = () => {
     })
     setScores(newScores)
 
-    // Track answer
     if (typeof window !== 'undefined' && window.umami) {
       window.umami.track('quiz_answer', {
         question: questions[step].id,
@@ -69,61 +121,67 @@ const OrganAgingQuiz = () => {
       setStep(step + 1)
     } else {
       setShowResults(true)
-      // Track completion
       if (typeof window !== 'undefined' && window.umami) {
         window.umami.track('quiz_complete', {
           brain_age: chronologicalAge + newScores.brain,
           heart_age: chronologicalAge + newScores.heart,
           liver_age: chronologicalAge + newScores.liver,
           lungs_age: chronologicalAge + newScores.lungs,
+          kidney_age: chronologicalAge + newScores.kidney,
         })
       }
     }
   }
 
-  if (showResults) {
-    return (
-      <div className="space-y-6">
-        <div className="rounded-xl border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
-          <h2 className="mb-4 text-xl font-bold text-gray-900 dark:text-gray-100">
-            Your Biological Age Offset
-          </h2>
-          <div className="mb-6 grid grid-cols-2 gap-4">
-            {Object.entries(scores).map(([organ, score]) => (
-              <div
-                key={organ}
-                className="flex flex-col items-center rounded-lg bg-gray-50 p-3 dark:bg-gray-700/50"
-              >
-                <span className="text-xs text-gray-500 uppercase dark:text-gray-400">{organ}</span>
-                <span
-                  className={`text-lg font-bold ${
-                    score > 0 ? 'text-red-500' : score < 0 ? 'text-green-500' : 'text-gray-500'
-                  }`}
-                >
-                  {score > 0 ? `+${score}` : score} years
-                </span>
-              </div>
-            ))}
-          </div>
+  const getRecommendations = () => {
+    const sortedOrgans = Object.entries(scores).sort((a, b) => b[1] - a[1])
+    const weakestLink = sortedOrgans[0][0]
 
-          <div className="border-t border-gray-100 pt-4 dark:border-gray-700">
-            <label
-              htmlFor="age-range"
-              className="mb-2 block text-sm font-medium text-gray-700 dark:text-gray-300"
-            >
-              Adjust your chronological age for a full report:
-            </label>
-            <div className="flex items-center gap-4">
-              <input
-                id="age-range"
-                type="range"
-                min="20"
-                max="80"
-                value={chronologicalAge}
-                onChange={(e) => setChronologicalAge(parseInt(e.target.value))}
-                className="h-2 w-full cursor-pointer appearance-none rounded-lg bg-gray-200 dark:bg-gray-700"
-              />
-              <span className="text-primary-500 w-12 text-lg font-bold">{chronologicalAge}</span>
+    const recommendations = {
+      brain: {
+        title: 'Your Neural Clock Might Be Fast',
+        text: 'Consider reviewing the GLP-1 Brainspan revolution and optimizing your sleep protocol.',
+        link: '/blog/the-glp-1-brainspan-revolution-why-the-weight-loss-drug-is-2026s-biggest-neuroprotection-breakthrough',
+      },
+      heart: {
+        title: 'Your Vascular System Needs Support',
+        text: 'Focus on Zone 2 cardio and check your ApoB levels to preserve your cardiovascular engine.',
+        link: '/blog/the-age-adjusted-longevity-stack-2026',
+      },
+      liver: {
+        title: 'Your Factory is Overheated',
+        text: 'Metabolic markers like fasting insulin should be monitored. Check out the Rapamycin & Acarbose synergy.',
+        link: '/blog/rapamycin-acarbose-synergy-the-37-percent-breakthrough',
+      },
+      kidney: {
+        title: 'Check Your Filters',
+        text: 'Hydration and potentially a Cystatin C test are recommended to assess kidney function properly.',
+        link: '/blog/the-2026-longevity-blueprint-research-synthesis',
+      },
+      lungs: {
+        title: 'Optimize Your Oxygen Intake',
+        text: 'Focus on VO2 Max training and breathwork to improve pulmonary efficiency.',
+        link: '/blog/the-mitochondrial-efficiency-protocol-quality-over-quantity',
+      },
+    }
+
+    return recommendations[weakestLink]
+  }
+
+  if (showResults) {
+    const rec = getRecommendations()
+    return (
+      <div className="rounded-xl border border-gray-200 bg-white p-8 shadow-sm dark:border-gray-700 dark:bg-gray-800">
+        <h2 className="mb-6 text-2xl font-bold text-gray-900 dark:text-gray-100">
+          Your Estimated Organ Ages
+        </h2>
+        <div className="mb-8 grid grid-cols-1 gap-4 sm:grid-cols-2">
+          {Object.entries(scores).map(([organ, score]) => (
+            <div key={organ} className="rounded-lg bg-gray-50 p-4 dark:bg-gray-900/50">
+              <div className="text-sm text-gray-500 capitalize dark:text-gray-400">{organ}</div>
+              <div className="text-xl font-bold text-primary-500">
+                {chronologicalAge + score} years
+              </div>
             </div>
           </div>
 
@@ -145,6 +203,31 @@ const OrganAgingQuiz = () => {
         <div className="animate-in fade-in slide-in-from-bottom-4 duration-1000">
           <LeadMagnetCTA />
         </div>
+
+        <div className="mb-8 rounded-lg border border-primary-100 bg-primary-50/30 p-6 dark:border-primary-900/30 dark:bg-primary-900/10">
+          <h3 className="mb-2 text-lg font-bold text-gray-900 dark:text-gray-100">{rec.title}</h3>
+          <p className="mb-4 text-gray-600 dark:text-gray-400">{rec.text}</p>
+          <a
+            href={rec.link}
+            className="text-primary-600 hover:text-primary-700 font-medium dark:text-primary-400"
+          >
+            Read the full protocol →
+          </a>
+        </div>
+
+        <button
+          onClick={() => {
+            if (typeof window !== 'undefined' && window.umami) {
+              window.umami.track('quiz_restart')
+            }
+            setStep(0)
+            setScores({ brain: 0, heart: 0, liver: 0, lungs: 0, kidney: 0 })
+            setShowResults(false)
+          }}
+          className="bg-primary-500 hover:bg-primary-600 w-full rounded-md py-3 font-semibold text-white transition-colors"
+        >
+          Restart Quiz
+        </button>
       </div>
     )
   }

@@ -8,6 +8,8 @@ import TableWrapper from './TableWrapper'
 import Callout from './Callout'
 import LeadMagnetCTA from './LeadMagnetCTA'
 import ReadNext from './ReadNext'
+import OrganAgingQuiz from './OrganAgingQuiz'
+import LongevityStackTool from './LongevityStackTool'
 
 export const components: MDXComponents = {
   Image,
@@ -19,4 +21,6 @@ export const components: MDXComponents = {
   Callout,
   LeadMagnetCTA,
   ReadNext,
+  OrganAgingQuiz,
+  LongevityStackTool,
 }
