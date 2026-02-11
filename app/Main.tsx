@@ -2,8 +2,7 @@ import Link from '@/components/Link'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { formatDate } from 'pliny/utils/formatDate'
-import NewsletterForm from 'pliny/ui/NewsletterForm'
-import LeadMagnetCTA from '@/components/LeadMagnetCTA'
+import RetentionCTA from '@/components/RetentionCTA'
 
 const MAX_DISPLAY = 5
 
@@ -15,9 +14,7 @@ export default function Home({ posts }) {
           <div className="mx-auto max-w-7xl">
             <div className="mx-auto max-w-2xl lg:mx-0">
               <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl dark:text-gray-100">
-                <span className="text-primary-500/50 mr-2 opacity-50">[</span>
                 Longevity <span className="text-primary-500">Feed</span>
-                <span className="text-primary-500/50 ml-2 opacity-50">]</span>
               </h1>
               <p className="mt-8 text-xl leading-9 text-gray-600 dark:text-gray-300">
                 {siteMetadata.description}
@@ -121,8 +118,8 @@ export default function Home({ posts }) {
         </div>
       )}
       {siteMetadata.newsletter?.provider && (
-        <div className="flex items-center justify-center pt-4">
-          <NewsletterForm />
+        <div className="pt-4">
+          <RetentionCTA />
         </div>
       )}
     </>

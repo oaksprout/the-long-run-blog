@@ -12,7 +12,7 @@
     "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir app --dir components --dir lib --dir layouts --dir scripts",
-    "validate-mdx": "node ./scripts/validate-mdx.mjs",
+    "report:growth": "node --env-file=.env.local ./scripts/fetch-umami-metrics.mjs",
     "prepare": "husky"
   },
   "dependencies": {

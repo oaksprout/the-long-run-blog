@@ -19,7 +19,7 @@ const Status = () => {
         <span className="bg-primary-400 absolute inline-flex h-full w-full animate-ping rounded-full opacity-75"></span>
         <span className="bg-primary-500 relative inline-flex h-2 w-2 rounded-full"></span>
       </span>
-      <span className="font-mono tracking-wider uppercase">Network: Online</span>
+      <span className="tracking-wider uppercase">Network: Online</span>
     </div>
   )
 }
