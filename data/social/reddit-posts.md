@@ -117,7 +117,7 @@ Dr. Matt Kaeberlein took 8 different tests on the same day using the same sample
 
 Most people focus on Dr. Peter Attia's advice for VO2 max and deadlifts. But as we move toward a 100-year life, we need to apply "Medicine 3.0" to our professional lives. We aren't just training for a physical "Centenarian Decathlon"—we’re training for a "Centenarian Career."
 
-**Key Takeaways from the 2026 Synthesis:**
+**Key Takeaways from the 2026 Synthesis**:
 
 *   **The Marginal Career Decade:** Don't view your career as a sprint to 65. If you want to be high-level at 85 (consulting, writing, advising), you need to "over-train" your crystallized intelligence and cognitive stability in your 40s and 50s.
 *   **The GLP-1 Muscle Trap:** For knowledge workers using GLP-1s for metabolic health: Muscle is a metabolic sink for the brain. If you lose lean mass, you sabotage long-term cognitive resilience. Heavy resistance training is non-negotiable.
@@ -140,7 +140,7 @@ Most people focus on Dr. Peter Attia's advice for VO2 max and deadlifts. But as 
 
 Most of the world is still talking about Ozempic for weight loss. But in the longevity research community, 2026 is the year of **GLP-1 as Neuroprotection**.
 
-New synthesis from the Buck Institute confirms that these compounds act as a metabolic master-switch in the prefrontal cortex and hippocampus. If you're planning for a 100-year life, this is the ultimate "insurance policy" for your brain.
+New synthesis from the Buck Institute confirms that these compounds act as a "metabolic master-switch" in the prefrontal cortex and hippocampus. If you're planning for a 100-year life, this is the ultimate "insurance policy" for your brain.
 
 ### The Mechanism:
 1.  **Neuro-inflammation**: It’s like a fire extinguisher for "Type 3 Diabetes" (brain insulin resistance).
@@ -208,7 +208,7 @@ Researchers at Saitama Medical University have identified the **COX7RP** protein
 *   Monitor ApoB and glucose handling (Supercomplexes improve this)
 *   Focus on "Crystallized Intelligence" tasks while training—link the physical and cognitive.
 
-**Full Breakdown on Sarcopenia & the Brain:** [https://blog-the-long-run-production.up.railway.app/blog/beyond-vo2-max-building-mitochondrial-supercomplexes-with-cox7rp](https://blog-the-long-run-production.up.railway.app/blog/beyond-vo2-max-building-mitochondrial-supercomplexes-with-cox7rp)
+**Full Breakdown on Sarcopenia & the Brain:** [https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-supercomplex-protocol-optimizing-the-engine-of-longevity](https://blog-the-long-run-production.up.railway.app/blog/the-mitochondrial-supercomplex-protocol-optimizing-the-engine-of-longevity)
 
 ---
 
@@ -263,7 +263,7 @@ While we wait for consumer LFU devices, the focus shifts to **Mechanical Hormesi
 
 **Transparency:** This is early-stage but high-conviction. Don't go buying an industrial ultrasound cleaner and sticking your arm in it. 
 
-**Full Deep Dive on LFU & Senolysis:** [https://blog-the-long-run-production.up.railway.app/blog/rejuvenation-without-drugs-the-lfu-breakthrough](https://blog-the-long-run-production.up.railway.app/blog/rejuvenation-without-drugs-the-lfu-breakthrough)
+**Full Deep Dive on LFU & Senolysis:** [https://blog-the-long-run-production.up.railway.app/blog/lfu-senolysis-the-sound-of-silence-for-zombie-cells-myth-bust](https://blog-the-long-run-production.up.railway.app/blog/lfu-senolysis-the-sound-of-silence-for-zombie-cells-myth-bust)
 
 ---
 
@@ -321,7 +321,7 @@ Aging doesn't happen at a steady 1% per year. It happens in **Bursts**.
 **Are you in an Acceleration Window?**
 Drop your age and current protocol below, and let's map out the pivot.
 
-**Read the full Intelligence Brief on the 44/60 Shift:** [https://blog-the-long-run-production.up.railway.app/blog/the-acceleration-windows-44-60-shifts](https://blog-the-long-run-production.up.railway.app/blog/the-acceleration-windows-44-60-shifts)
+**Read the full Intelligence Brief on the 44/60 Shift:** [https://blog-the-long-run-production.up.railway.app/blog/aging-bursts-44-60-snyder-lab](https://blog-the-long-run-production.up.railway.app/blog/aging-bursts-44-60-snyder-lab)
 
 ---
 
@@ -341,8 +341,37 @@ If you are using alcohol-based antiseptic mouthwash, you are killing the nitrate
 
 **The 2026 Protocol:**
 1.  **Mechanical Reset:** Deep cleaning (scaling) to remove the biofilm.
-2.  **Oral Probiotics:** Seeding with *S. salivarius K12* to outcompete pathogens.
+2.  **Oral Probiotics:** Seeding with *S. salivarius K12* oral probiotics after brushing to outcompete pathogens.
 3.  **NO Preservation:** Switch to alkaline or essential-oil rinses; ditch the alcohol.
 4.  **Tongue Scraping:** Remove the bacterial reservoir every morning.
 
 **Full Deep Dive on the Oral Microbiome:** [https://blog-the-long-run-production.up.railway.app/blog/the-oral-microbiome-your-bodys-silent-leak-and-the-new-frontier-of-inflammaging](https://blog-the-long-run-production.up.railway.app/blog/the-oral-microbiome-your-bodys-silent-leak-and-the-new-frontier-of-inflammaging)
+
+---
+
+## Post 14: r/Biohackers - Your "Biological Age" is a lie: The 1 in 5 "Extreme Ager" Rule (Nature Medicine 2025)
+
+**Title**: Your "Biological Age" is a lie: The 1 in 5 "Extreme Ager" Rule (Nature Medicine 2025)
+
+**Post Content**:
+
+We’ve long been obsessed with a single number: our "Biological Age." But a groundbreaking new study in **Nature Medicine (July 2025)** has shattered that illusion.
+
+Researchers from Stanford analyzed 44,000 people and found that we don't age as one unit. We age as **11 distinct organ systems**—and they are rarely in sync.
+
+**The "Weakest Link" Theory:**
+You might have the heart of a 25-year-old but the kidney age of a 60-year-old. The study found that **1 in 5 healthy adults (50+)** is an "Extreme Ager" in at least one organ. This single accelerated organ is often the driver of mortality, even if your "overall" age looks good.
+
+**Key Findings:**
+*   **Heart Extreme Agers:** 250% increased risk of heart failure.
+*   **Brain Extreme Agers:** Strongest predictor of all-cause mortality.
+*   **The Discrepancy:** Your brain can be 10 years older than your body.
+
+**Actionable Takeaway:**
+Stop chasing a generic "Bio-Age" score. Move toward **Targeted Longevity**. 
+*   Track **Cystatin C** (Kidneys)
+*   Track **ApoB** (Arteries)
+*   Track **ALT/AST** (Liver)
+Find your weakest link and target it.
+
+**Full breakdown of the 11-Organ Clock Study:** [https://blog-the-long-run-production.up.railway.app/blog/your-organs-are-aging-at-different-rates-the-2025-nature-medicine-breakthrough](https://blog-the-long-run-production.up.railway.app/blog/your-organs-are-aging-at-different-rates-the-2025-nature-medicine-breakthrough)
