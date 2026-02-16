@@ -6,7 +6,7 @@ import LeadMagnetCTA from './LeadMagnetCTA'
 interface Umami {
   track: (eventName: string, eventData?: object) => void
 }
-// ... existing interface and declare global ...
+
 declare global {
   interface Window {
     umami: Umami
@@ -97,7 +97,7 @@ const questions = [
 ]
 
 const OrganAgingQuiz = () => {
-  const [step, setStep] = useState(0)
+  const [step, setStep] = useState(-1)
   const [scores, setScores] = useState({ brain: 0, heart: 0, liver: 0, lungs: 0, kidney: 0 })
   const [showResults, setShowResults] = useState(false)
   const [chronologicalAge, setChronologicalAge] = useState(40)
@@ -123,6 +123,7 @@ const OrganAgingQuiz = () => {
       setShowResults(true)
       if (typeof window !== 'undefined' && window.umami) {
         window.umami.track('quiz_complete', {
+          chronological_age: chronologicalAge,
           brain_age: chronologicalAge + newScores.brain,
           heart_age: chronologicalAge + newScores.heart,
           liver_age: chronologicalAge + newScores.liver,
@@ -150,7 +151,7 @@ const OrganAgingQuiz = () => {
       },
       liver: {
         title: 'Your Factory is Overheated',
-        text: 'Metabolic markers like fasting insulin should be monitored. Check out the Rapamycin & Acarbose synergy.',
+        text: 'Metabolic markers lfasting insulin should be monitored. Check out the Rapamycin & Acarbose synergy.',
         link: '/blog/rapamycin-acarbose-synergy-the-37-percent-breakthrough',
       },
       kidney: {
@@ -206,7 +207,7 @@ const OrganAgingQuiz = () => {
             if (typeof window !== 'undefined' && window.umami) {
               window.umami.track('quiz_restart')
             }
-            setStep(0)
+            setStep(-1)
             setScores({ brain: 0, heart: 0, liver: 0, lungs: 0, kidney: 0 })
             setShowResults(false)
           }}
@@ -214,6 +215,35 @@ const OrganAgingQuiz = () => {
         >
           Restart Quiz
         </button>
+      </div>
+    )
+  }
+
+  if (step === -1) {
+    return (
+      <div className="rounded-xl border border-gray-200 bg-white p-8 shadow-sm dark:border-gray-700 dark:bg-gray-800">
+        <h2 className="mb-6 text-xl font-semibold text-gray-900 dark:text-gray-100">
+          First, what is your chronological age?
+        </h2>
+        <div className="mb-6">
+          <input
+            type="number"
+            value={chronologicalAge || ''}
+            onChange={(e) => setChronologicalAge(parseInt(e.target.value) || 0)}
+            className="w-full rounded-lg border border-gray-200 px-4 py-3 dark:border-gray-600 dark:bg-gray-900 dark:text-gray-100 focus:border-primary-500 focus:ring-1 focus:ring-primary-500 outline-none"
+            placeholder="Enter your age"
+          />
+        </div>
+        <button
+          onClick={() => setStep(0)}
+          disabled={!chronologicalAge || chronologicalAge < 10 || chronologicalAge > 120}
+          className="bg-primary-500 hover:bg-primary-600 disabled:bg-gray-400 w-full rounded-md py-3 font-semibold text-white transition-colors"
+        >
+          Start Quiz
+        </button>
+        <p className="mt-4 text-center text-xs text-gray-500">
+          Your data is processed locally and never stored.
+        </p>
       </div>
     )
   }

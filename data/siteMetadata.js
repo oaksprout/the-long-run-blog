@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'The Long Run',
   author: 'The Long Run',
   headerTitle: 'The Long Run',
-  description: 'Mastering biological acceleration windows and the 44/60 Shift Protocol through actionable longevity research and healthspan optimization.',
+  description: 'High-signal longevity research for healthspan optimization. We translate complex geroscience into practical protocols for the long game.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://the-long-run-blog.up.railway.app',

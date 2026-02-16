@@ -15,13 +15,10 @@ export default function Home({ posts }) {
           <div className="mx-auto max-w-7xl">
             <div className="mx-auto max-w-2xl lg:mx-0">
               <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl dark:text-gray-100">
-                Longevity <span className="text-primary-500">Feed</span>
+                The Long <span className="text-primary-500">Run</span>
               </h1>
               <p className="mt-8 text-xl leading-9 text-gray-600 dark:text-gray-300">
-                Our mission is to increase the number of people living within the constraints of the
-                best longevity research. We focus on the <strong>44/60 Acceleration Windows</strong>{' '}
-                — the critical pivots in biological aging — and translate cutting-edge science into
-                actionable protocols for your healthspan.
+                High-signal longevity research for the evidence-based life. We translate complex geroscience—including the critical <strong>44/60 Acceleration Windows</strong>—into practical, actionable protocols to optimize your healthspan.
               </p>
               <div className="mt-10 flex flex-col items-start gap-4 sm:flex-row sm:items-center sm:gap-x-6">
                 <Link
@@ -240,7 +237,7 @@ export default function Home({ posts }) {
                           aria-label={`Read more: "${title}"`}
                         >
                           <span className="mr-2">❯</span>
-                          EXECUTE: READ_MORE
+                          READ THE DEEP DIVE
                         </Link>
                       </div>
                     </div>

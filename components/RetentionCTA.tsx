@@ -52,7 +52,7 @@ export default function RetentionCTA() {
             {isBookmarked ? 'Bookmark added to memory' : 'Bookmark this page'}
           </button>
           <p className="mt-4 text-center text-xs text-gray-500 dark:text-gray-400">
-            Join 2,400+ researchers and biohackers.
+            Join 2,400+ researchers and healthspan optimizers.
           </p>
         </div>
       </div>

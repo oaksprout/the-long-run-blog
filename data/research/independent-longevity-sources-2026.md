@@ -20,3 +20,13 @@
 - **Source:** Lee, J., et al. "Epigenetic Reprogramming for Ocular Aging and Disease: Mechanisms, Biomarkers, and the Road to the Clinic." *Progress in Retinal and Eye Research* (January 21, 2026).
 - **Key Finding:** OSK-mediated partial reprogramming (minus c-Myc) restores youthful DNA methylation patterns and vision in aging retinal tissues.
 - **Relevance:** Provides the mechanistic evidence for the 2026 clinical pivot toward systemic and organ-specific epigenetic rejuvenation protocols.
+
+## 5. Mid-Infrared (MIR) Light Resonance (34 THz)
+- **Source:** "Mid-infrared light produces anti-ageing effects through resonant absorption by living organisms." *bioRxiv* (February 10, 2026).
+- **Key Finding:** Super-weak 34-THz MIR light prolonged median lifespan by 60% in *C. elegans* by enhancing global gene transcription through resonant absorption.
+- **Relevance:** Introduces "Photobiomodulation 2.0" — non-thermal, frequency-specific light resonance as a systemic anti-aging intervention.
+
+## 6. Neuron-Specific Aging Clocks and Proteostasis
+- **Source:** "Aging clocks delineate neuron types vulnerable or resilient to neurodegeneration." *Nature Aging* (February 6, 2026).
+- **Key Finding:** Identified that biological aging is heterogeneous across neuron types and can be mitigated by Syringic Acid-mediated proteostasis stabilization.
+- **Relevance:** Provides a blueprint for targeted neuroprotection and validates Syringic Acid as a key compound for brain healthspan.
