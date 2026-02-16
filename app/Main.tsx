@@ -2,7 +2,7 @@ import Link from '@/components/Link'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { formatDate } from 'pliny/utils/formatDate'
-import NewsletterForm from 'pliny/ui/NewsletterForm'
+import RetentionCTA from '@/components/RetentionCTA'
 import LeadMagnetCTA from '@/components/LeadMagnetCTA'
 
 const MAX_DISPLAY = 5
@@ -13,16 +13,9 @@ export default function Home({ posts }) {
       <div className="relative isolate overflow-hidden">
         <div className="py-24 sm:py-32">
           <div className="mx-auto max-w-7xl">
-            <div className="mx-auto max-w-3xl lg:mx-0">
-              <div className="mb-8 flex">
-                <div className="border-primary-500/30 bg-primary-500/5 text-primary-600 dark:text-primary-400 ring-primary-500/20 relative rounded-full px-3 py-1 text-sm leading-6 ring-1 ring-inset">
-                  <span className="font-semibold tracking-wide uppercase">
-                    Longevity Intelligence
-                  </span>
-                </div>
-              </div>
-              <h1 className="text-5xl font-extrabold tracking-tight text-gray-900 sm:text-7xl dark:text-gray-100">
-                The Long <span className="text-primary-500">Run</span>
+            <div className="mx-auto max-w-2xl lg:mx-0">
+              <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl dark:text-gray-100">
+                Longevity <span className="text-primary-500">Feed</span>
               </h1>
               <p className="mt-8 text-xl leading-9 text-gray-600 dark:text-gray-300">
                 Our mission is to increase the number of people living within the constraints of the
@@ -155,6 +148,55 @@ export default function Home({ posts }) {
 
       <LeadMagnetCTA />
 
+      <div className="bg-gray-50 py-16 dark:bg-gray-900/40">
+        <div className="mx-auto max-w-7xl px-6 lg:px-8">
+          <div className="mx-auto max-w-2xl lg:text-center">
+            <h2 className="text-primary-500 text-base leading-7 font-semibold">
+              Interactive Tools
+            </h2>
+            <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl dark:text-gray-100">
+              Measure & Optimize Your Healthspan
+            </p>
+            <p className="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-300">
+              Go beyond reading. Use our clinical-grade interactive tools to identify your
+              biological weakest links and build your personalized 2026 stack.
+            </p>
+          </div>
+          <div className="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-8 lg:max-w-none lg:grid-cols-2">
+            <div className="flex flex-col rounded-2xl border border-gray-200 bg-white p-8 shadow-sm transition-shadow hover:shadow-md dark:border-gray-700 dark:bg-gray-800">
+              <h3 className="text-xl font-bold text-gray-900 dark:text-gray-100">
+                Organ Aging Quiz
+              </h3>
+              <p className="mt-4 flex-auto text-gray-600 dark:text-gray-300">
+                Identify which of your 11 biological systems is leading the aging race. Based on the
+                2025 Nature Medicine proteomics study.
+              </p>
+              <Link
+                href="/quiz"
+                className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 mt-6 font-semibold"
+              >
+                Take the Quiz &rarr;
+              </Link>
+            </div>
+            <div className="flex flex-col rounded-2xl border border-gray-200 bg-white p-8 shadow-sm transition-shadow hover:shadow-md dark:border-gray-700 dark:bg-gray-800">
+              <h3 className="text-xl font-bold text-gray-900 dark:text-gray-100">
+                Longevity Stack Tool
+              </h3>
+              <p className="mt-4 flex-auto text-gray-600 dark:text-gray-300">
+                Build your age-adjusted protocol. From VO2 Max in your 30s to Rapamycin pulses in
+                your 60s.
+              </p>
+              <Link
+                href="/blog/the-age-adjusted-longevity-stack-2026"
+                className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 mt-6 font-semibold"
+              >
+                Build Your Stack &rarr;
+              </Link>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
           {!posts.length && 'No posts found.'}
@@ -166,7 +208,7 @@ export default function Home({ posts }) {
                   <div className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
                     <dl>
                       <dt className="sr-only">Published on</dt>
-                      <dd className="text-base leading-6 font-medium text-gray-500 dark:text-gray-400">
+                      <dd className="font-mono text-base leading-6 font-medium text-gray-500 dark:text-gray-400">
                         <time dateTime={date}>{formatDate(date, siteMetadata.locale)}</time>
                       </dd>
                     </dl>
@@ -194,10 +236,11 @@ export default function Home({ posts }) {
                       <div className="text-base leading-6 font-medium">
                         <Link
                           href={`/blog/${slug}`}
-                          className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                          className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 font-mono text-sm"
                           aria-label={`Read more: "${title}"`}
                         >
-                          Read more &rarr;
+                          <span className="mr-2">❯</span>
+                          EXECUTE: READ_MORE
                         </Link>
                       </div>
                     </div>
@@ -220,8 +263,8 @@ export default function Home({ posts }) {
         </div>
       )}
       {siteMetadata.newsletter?.provider && (
-        <div className="flex items-center justify-center pt-4">
-          <NewsletterForm />
+        <div className="pt-4">
+          <RetentionCTA />
         </div>
       )}
     </>

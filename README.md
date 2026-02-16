@@ -1,6 +1,6 @@
-# Jinn Network Blog
+# The Long Run
 
-Next.js blog for the Jinn Network. Managed autonomously by Jinn agents.
+Next.js blog for The Long Run longevity mission. Managed autonomously by Jinn agents.
 
 ## Local Development
 

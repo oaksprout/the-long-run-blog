@@ -17,7 +17,7 @@ export default function Footer() {
           <div className="text-primary-500 font-semibold">{siteMetadata.author}</div>
           <div>{` • `}</div>
           <div>{`© ${new Date().getFullYear()}`}</div>
-          <div>{` • `}</div>
+          <div>{` // `}</div>
           <Link href="/" className="hover:text-primary-500">
             {siteMetadata.title}
           </Link>

@@ -191,3 +191,80 @@ This document tracks the outreach efforts for "The Long Run" blog to high-author
     - Site Name: The Long Run
     - RSS URL: https://blog-the-long-run-production.up.railway.app/feed.xml
     - Topics: Longevity, Health, Science.
+
+---
+
+## Cycle 3 Outreach (Jan 24, 2026) - Oral Microbiome & Organ Aging
+
+### 1. Mark Burhenne (Ask the Dentist)
+- **Angle:** The Oral-Systemic Axis & P. gingivalis
+- **Status:** [DRAFTED]
+- **Draft Message:**
+    > Subject: Research Resource: The Oral-Systemic Axis & Longevity (Cycle 3)
+    >
+    > Hi Dr. Burhenne,
+    >
+    > I’ve been a long-time follower of your work on "Ask the Dentist" and your advocacy for the oral-systemic connection. We’ve just published a deep dive on "The Oral Microbiome: Your Body’s Silent Leak" that specifically looks at P. gingivalis and its 2026 implications for neuroprotection and longevity.
+    >
+    > Link: https://blog-the-long-run-production.up.railway.app/blog/the-oral-microbiome-your-bodys-silent-leak-and-the-new-frontier-of-inflammaging
+    >
+    > Keep up the great work advocating for oral health!
+
+### 2. Longevity.Technology
+- **Angle:** Technical breakdown of the "11 distinct organ clocks" study.
+- **Status:** [DRAFTED]
+- **Draft Message:**
+    > Subject: Industry Insight: The "Weakest Link" in Organ-Specific Aging
+    >
+    > Hi Team,
+    >
+    > We’ve just released a technical breakdown of the July 2025 Nature Medicine breakthrough regarding the 11 distinct organ systems and how they age at different rates. This piece explores the "1 in 5 Extreme Ager" rule.
+    >
+    > Link: https://blog-the-long-run-production.up.railway.app/blog/your-organs-are-aging-at-different-rates-the-2025-nature-medicine-breakthrough
+    >
+    > Cheers!
+
+### 3. Lifespan.io
+- **Angle:** Rejuvenation biotechnology through the lens of targeted organ repair.
+- **Status:** [DRAFTED]
+- **Draft Message:**
+    > Subject: Content Reference: The "Weakest Link" Theory of Organ Aging
+    >
+    > Hi Lifespan.io Team,
+    >
+    > We’ve published a deep dive on the "Weakest Link" theory based on the 2025 Nature Medicine findings. We argue that identifying and targeting the single "extreme aging" organ is the most efficient path to healthspan extension.
+    >
+    > Link: https://blog-the-long-run-production.up.railway.app/blog/your-organs-are-aging-at-different-rates-the-2025-nature-medicine-breakthrough
+    >
+    > Best,
+    > The Long Run Team
+
+### 4. Dr. Brad Stanfield
+- **Angle:** Practical implementation of the 11-organ clock study using accessible blood markers.
+- **Status:** [DRAFTED]
+- **Draft Message:**
+    > Subject: Research Update: Applying the 11-Organ Clock to Clinical Biomarkers
+    >
+    > Dear Dr. Stanfield,
+    >
+    > We’ve synthesized the Nature Medicine 2025 study on organ-specific aging and mapped the findings to practical biomarkers (Cystatin C, ApoB, etc.) that people can track today.
+    >
+    > Link: https://blog-the-long-run-production.up.railway.app/blog/your-organs-are-aging-at-different-rates-the-2025-nature-medicine-breakthrough
+    >
+    > Best regards,
+    > The Long Run
+
+### 5. Hone Health (The Edge)
+- **Angle:** Beyond the Bio-Age Score – The Rise of Targeted Longevity.
+- **Status:** [DRAFTED]
+- **Draft Message:**
+    > Subject: Article Idea: Beyond the Bio-Age Score – The Rise of Targeted Longevity
+    >
+    > Hi [Name],
+    >
+    > We’ve just released a piece on why generic "Biological Age" scores are becoming obsolete in favor of targeted organ tracking, based on the latest 2025 research. Perfect for men seeking optimization.
+    >
+    > Link: https://blog-the-long-run-production.up.railway.app/blog/your-organs-are-aging-at-different-rates-the-2025-nature-medicine-breakthrough
+    >
+    > Best,
+    > The Long Run
