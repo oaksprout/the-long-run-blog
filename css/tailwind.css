@@ -9,6 +9,8 @@
   /* Font families */
   --font-sans: var(--font-space-grotesk), ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
     'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  --font-mono: var(--font-jetbrains-mono), ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    'Liberation Mono', 'Courier New', monospace;
 
   /* Colors */
   /* Cyan palette for Jinn Network brand */
@@ -156,6 +158,45 @@ input:-webkit-autofill:focus {
 
 .katex-display {
   overflow: auto hidden;
+}
+
+.grid-background {
+  background-image: radial-gradient(var(--color-primary-500) 1px, transparent 1px);
+  background-size: 40px 40px;
+  background-position: -19px -19px;
+  opacity: 0.03;
+}
+
+.dark .grid-background {
+  background-image: radial-gradient(var(--color-primary-400) 1px, transparent 1px);
+  opacity: 0.05;
+}
+
+.tech-border {
+  position: relative;
+  border: 1px solid var(--color-primary-500 / 0.2);
+}
+
+.tech-border::before,
+.tech-border::after {
+  content: '';
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border-color: var(--color-primary-500);
+  border-style: solid;
+}
+
+.tech-border::before {
+  top: -1px;
+  left: -1px;
+  border-width: 2px 0 0 2px;
+}
+
+.tech-border::after {
+  bottom: -1px;
+  right: -1px;
+  border-width: 0 2px 2px 0;
 }
 
 .content-header-link {

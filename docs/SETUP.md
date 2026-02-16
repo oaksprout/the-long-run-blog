@@ -65,17 +65,20 @@ Complete guide to deploy the Jinn Blog infrastructure on Railway.
 ## Environment Variables Summary
 
 ### Blog Service
-| Variable | Value | Description |
-|----------|-------|-------------|
-| `NEXT_UMAMI_ID` | `xxxxxxxx-xxxx-...` | Website ID from Umami |
+
+| Variable         | Value                        | Description               |
+| ---------------- | ---------------------------- | ------------------------- |
+| `NEXT_UMAMI_ID`  | `xxxxxxxx-xxxx-...`          | Website ID from Umami     |
 | `NEXT_UMAMI_SRC` | `https://umami.../script.js` | Umami tracking script URL |
 
 ### Umami Service
-| Variable | Value | Description |
-|----------|-------|-------------|
+
+| Variable       | Value                        | Description                   |
+| -------------- | ---------------------------- | ----------------------------- |
 | `DATABASE_URL` | `${{Postgres.DATABASE_URL}}` | Railway PostgreSQL connection |
 
 ### Agent Configuration (External)
+
 These are used by the AI agent, not by Railway:
 
 ```env
@@ -88,16 +91,19 @@ GIT_REPO_URL=git@github.com:Jinn-Network/jinn-blog.git
 ## Troubleshooting
 
 ### Blog won't build
+
 - Check build logs in Railway
 - Ensure `yarn.lock` is committed
 - Verify Node.js version compatibility
 
 ### Umami not tracking
+
 - Verify `NEXT_UMAMI_ID` is set correctly
 - Check browser for Content Security Policy errors
 - Ensure Umami domain is accessible
 
 ### API requests failing
+
 - Verify API key is valid
 - Check CORS settings in Umami
 - Ensure website ID is correct
@@ -105,6 +111,7 @@ GIT_REPO_URL=git@github.com:Jinn-Network/jinn-blog.git
 ## Costs
 
 Railway usage-based pricing:
+
 - **Hobby plan**: $5/month credit included
 - **PostgreSQL**: ~$5-10/month for small database
 - **Apps**: ~$5-15/month per service

@@ -6,7 +6,7 @@ const siteMetadata = {
   description: 'Mastering biological acceleration windows and the 44/60 Shift Protocol through actionable longevity research and healthspan optimization.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://blog-the-long-run-production.up.railway.app',
+  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://the-long-run-blog.up.railway.app',
   siteRepo: 'https://github.com/oaksprout/the-long-run-blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
@@ -36,12 +36,25 @@ const siteMetadata = {
     },
   },
   newsletter: {
-    // Disable newsletter for now
-    provider: '',
+    // Enable buttondown as default provider
+    provider: 'buttondown',
   },
   comments: {
-    // Disable comments for now - can be enabled later with Giscus
-    provider: '',
+    // Enable Giscus for community engagement
+    provider: 'giscus',
+    giscusConfig: {
+      repo: process.env.NEXT_PUBLIC_GISCUS_REPO,
+      repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
+      category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
+      categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
+      mapping: 'pathname',
+      reactions: '1',
+      metadata: '0',
+      theme: 'light',
+      darkTheme: 'transparent_dark',
+      themeURL: '',
+      lang: 'en',
+    },
   },
   search: {
     provider: 'kbar',
