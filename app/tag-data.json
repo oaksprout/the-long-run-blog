@@ -1,6 +1,6 @@
 {
   "aging-bursts": 3,
-  "longevity": 20,
+  "longevity": 21,
   "science": 12,
   "snyder-lab": 2,
   "protocol": 11,
@@ -29,7 +29,7 @@
   "precision-medicine": 2,
   "neuroplasticity": 1,
   "ai": 1,
-  "research": 2,
+  "research": 3,
   "career-strategy": 1,
   "productivity": 1,
   "healthspan": 2,
@@ -37,7 +37,7 @@
   "glp-1": 1,
   "urolithin-a": 1,
   "mitophagy": 1,
-  "mitochondria": 2,
+  "mitochondria": 3,
   "bioenergetics": 1,
   "inflammaging": 1,
   "muscle-health": 1,
@@ -47,5 +47,8 @@
   "introduction": 1,
   "organ-specific-aging": 1,
   "nature-medicine": 1,
-  "proteomics": 1
+  "proteomics": 1,
+  "light-therapy": 1,
+  "MIR-light": 1,
+  "biorxiv": 1
 }
