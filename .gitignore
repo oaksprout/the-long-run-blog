@@ -49,3 +49,7 @@ yarn-error.log*
 # Added by Jinn worker
 node_modules/
 .beads/beads.db
+
+# Private outreach contacts, correspondence and campaign records
+/logs/outreach/
+/data/seo/outreach_campaign.md

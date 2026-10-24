@@ -38,3 +38,7 @@ bd sync               # Sync with git
 - NEVER stop before pushing - that leaves work stranded locally
 - NEVER say "ready to push when you are" - YOU must push
 - If push fails, resolve and retry until it succeeds
+
+## Privacy
+
+Keep outreach contact lists, correspondence, and execution logs in a private system, outside this repository. Do not commit personal contact details, private medical information, passwords, wallet keys, or authenticated service URLs.
